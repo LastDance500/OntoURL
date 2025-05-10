@@ -1,0 +1,6 @@
+Question: Please provide the definition of the concept 'epithelium of terminal part of digestive tract', as an element in Cell Ontology.
+Answer: Epithelium lining the distalmost portion of the digestive tract.
+
+|||
+Question: {}
+Answer:

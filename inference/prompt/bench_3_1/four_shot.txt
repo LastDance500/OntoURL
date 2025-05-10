@@ -1,0 +1,15 @@
+Question: Please provide the definition of the concept 'epithelium of terminal part of digestive tract', as an element in Cell Ontology.
+Answer: Epithelium lining the distalmost portion of the digestive tract.
+
+Question: Please provide the definition of the concept 'chemist', as an element in Occupation Ontology.
+Answer: Conduct qualitative and quantitative chemical analyses or experiments in laboratories for quality or process control or to develop new products or knowledge.
+
+Question: Please provide the definition of the concept 'Gutter', as an element in Comic Book Ontology.
+Answer: The space between panels in a comics sequence.
+
+Question: Please provide the definition of the concept 'negative regulation of female receptivity', as an element in Emotion Ontology.
+Answer: Any process that stops, prevents or reduces the receptiveness of a female to male advances.
+
+|||
+Question: {}
+Answer:

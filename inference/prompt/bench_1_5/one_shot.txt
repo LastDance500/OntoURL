@@ -1,0 +1,10 @@
+Question: In the ontology of Software, which of the following definitions best describes the instance 'pT4b (colon)'?
+A. A pathologic primary tumor stage for colon and rectum according to AJCC 7th edition indicating carcinoma in situ (intraepithelial or invasion of lamina propria).
+B. A pathologic primary tumor stage for colon and rectum according to AJCC 7th edition indicating that the tumor directly invades other organs or structures.
+C. A pathologic primary tumor stage for colon and rectum according to AJCC 7th edition indicating that the tumor invades muscularis propria.
+D. A pathologic primary tumor stage for colon and rectum according to AJCC 7th edition indicating that there is no evidence of primary tumor.
+Answer: B
+
+|||
+Question: {}
+Answer:

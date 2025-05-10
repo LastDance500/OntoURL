@@ -1,0 +1,10 @@
+Question: In the ontology of Movie, which of the following is a valid range for the data property 'familyName'?
+A. Actor
+B. None
+C. Director
+D. Spatial Thing
+Answer: B
+
+|||
+Question: {}
+Answer:

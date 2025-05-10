@@ -1,0 +1,10 @@
+Question: In the ontology of Gene, which of the following classes is the inferred superclass of '4-oxoproline reductase activity'?
+A. regulation of dendritic cell chemotaxis
+B. IgA immunoglobulin complex
+C. oxidoreductase activity, acting on CH-OH group of donors
+D. serine-type endopeptidase activity
+Answer: C
+
+|||
+Question: {}
+Answer:

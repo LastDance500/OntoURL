@@ -1,0 +1,10 @@
+Question: In the ontology of Plant, which of the following definitions best describes 'calyx'?
+A. A collective phyllome structure that is composed of one or more petals , comprising the inner whorl of non-reproductive floral organs and surrounds the androecium and the gynoecium .
+B. A collective phyllome structure composed all of the carpels in a flower .
+C. A collective phyllome structure that encloses a fruit of the Poaceae (caryopsis) and develops from a dried lemma and palea.
+D. A collective phyllome structure that is composed of one or more sepals , and comprises the outer whorl of non-reproductive floral organs .
+Answer: D
+
+|||
+Question: {}
+Answer:

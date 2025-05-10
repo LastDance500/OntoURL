@@ -1,0 +1,5 @@
+Your task is to perform ontology alignment. Please only generate the matched pairs as tuples in the format (entity1, entity2).
+
+|||
+Question: {}
+Answer:

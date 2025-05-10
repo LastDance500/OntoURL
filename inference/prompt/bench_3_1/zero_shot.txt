@@ -1,0 +1,5 @@
+Given an open-ended question, please generate a comprehensive text.
+
+|||
+Question: {}
+Answer:

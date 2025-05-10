@@ -1,0 +1,10 @@
+Question: In the ontology of Human Phenotype, which of the following classes is the superclass of 'regulation of leukocyte differentiation'?
+A. regulation of hemopoiesis
+B. Parathyroid dysgenesis
+C. Olfactory lobe agenesis
+D. positive regulation of G protein-coupled receptor signaling pathway
+Answer: A
+
+|||
+Question: {}
+Answer:

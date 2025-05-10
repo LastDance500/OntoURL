@@ -1,0 +1,5 @@
+Construct the ontology’s structure (constraint) and generate only the triples—comma-separated—in the form (subject, domain/range, object).
+
+|||
+Question: {}
+Answer:

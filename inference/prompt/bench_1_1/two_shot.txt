@@ -1,0 +1,17 @@
+Question: In the ontology of Plant, which of the following definitions best describes 'calyx'?
+A. A collective phyllome structure that is composed of one or more petals , comprising the inner whorl of non-reproductive floral organs and surrounds the androecium and the gynoecium .
+B. A collective phyllome structure composed all of the carpels in a flower .
+C. A collective phyllome structure that encloses a fruit of the Poaceae (caryopsis) and develops from a dried lemma and palea.
+D. A collective phyllome structure that is composed of one or more sepals , and comprises the outer whorl of non-reproductive floral organs .
+Answer: D
+
+Question: In the ontology of Environment, which of the following definitions best describes 'non alcoholic beverage (eurofir)'?
+A. Marine streamers are tongues of cold water that extend > 100 km offshore from upwelling regions. Enhanced primary productivity may occur in these waters as they are typically more nutrient rich than marine surface waters.
+B. Alcoholic or non-alcoholic beverage; excludes milk and milk-based beverages.
+C. Beverage prepared by extracting flavour and other components from food sources by percolation and/or immersion in water, usually at near-boiling temperature. The group includes coffee (e.g. instant coffee, coffee and chicory essence), tea, herbal tea (e.g. green tea, black tea, tisane), cocoa beverage and beverage powder.
+D. Beverage containing no more than 0.5% alcohol; it may be flavoured, sweetened or carbonated; includes soft drinks and steeped beverages; excludes milk in all forms, fruit juices and vegetable juices.
+Answer: D
+
+|||
+Question: {}
+Answer:

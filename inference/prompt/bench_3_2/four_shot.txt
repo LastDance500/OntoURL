@@ -1,0 +1,111 @@
+Question: Here is a list of classes in the ontology of Legal. Please provide all relationships between classes in triple format.
+Classes:
+- Assumption
+- Cause
+- Epistemic_Role
+- Evidence
+- Exception
+- Expectation
+- Fact
+- Observation
+- Reason
+- Role
+Answer: (Assumption, subClassOf, Epistemic_Role)
+(Cause, subClassOf, Epistemic_Role)
+(Epistemic_Role, subClassOf, Role)
+(Evidence, subClassOf, Epistemic_Role)
+(Exception, subClassOf, Epistemic_Role)
+(Expectation, subClassOf, Epistemic_Role)
+(Fact, subClassOf, Epistemic_Role)
+(Observation, subClassOf, Epistemic_Role)
+(Reason, subClassOf, Epistemic_Role)
+
+Question: Here is a list of classes in the ontology of African Wildlife. Please provide all relationships between classes in triple format.
+Classes:
+- AnimalCollective
+- Bask
+- Den
+- Flight
+- Herd
+- Nest
+- Scourge
+- Swarm
+- Troop
+- Zeal
+Answer: (Bask, subClassOf, AnimalCollective)
+(Den, subClassOf, AnimalCollective)
+(Flight, subClassOf, AnimalCollective)
+(Herd, subClassOf, AnimalCollective)
+(Nest, subClassOf, AnimalCollective)
+(Scourge, subClassOf, AnimalCollective)
+(Swarm, subClassOf, AnimalCollective)
+(Troop, subClassOf, AnimalCollective)
+(Zeal, subClassOf, AnimalCollective)
+
+Question: Here is a list of classes in the ontology of Video Game. Please provide all relationships between classes in triple format.
+Classes:
+- Achievement
+- Collection
+- Completion
+- Curiosity
+- Fandom
+- Loyalty
+- Luck
+- Minigame
+- Multiplayer
+- Paragon
+- Tutorial
+- Veteran
+- Virtuosity
+- hard mode
+- special play style
+Answer: (Collection, subClassOf, Achievement)
+(Completion, subClassOf, Achievement)
+(Curiosity, subClassOf, Achievement)
+(Fandom, subClassOf, Achievement)
+(Loyalty, subClassOf, Achievement)
+(Luck, subClassOf, Achievement)
+(Minigame, subClassOf, Achievement)
+(Multiplayer, subClassOf, Achievement)
+(Paragon, subClassOf, Achievement)
+(Tutorial, subClassOf, Achievement)
+(Veteran, subClassOf, Achievement)
+(Virtuosity, subClassOf, Achievement)
+(hard mode, subClassOf, Achievement)
+(special play style, subClassOf, Achievement)
+
+Question: Here is a list of classes in the ontology of comic book. Please provide all relationships between classes in triple format.
+Classes:
+- Agent
+- Library
+- Museum
+- Organization
+- Organization
+- OrganizationalUnit
+- Partenariat
+- Person
+- Player
+- Publisher
+- listened
+- music artist
+- organización formal
+- performer
+- sound engineer
+Answer: (Library, subClassOf, Organization)
+(Museum, subClassOf, Organization)
+(Organization, subClassOf, Agent)
+(Organization, subClassOf, Agent)
+(OrganizationalUnit, subClassOf, Organization)
+(Partenariat, subClassOf, Organization)
+(Person, subClassOf, Agent)
+(Player, subClassOf, Agent)
+(Publisher, subClassOf, Organization)
+(listened, subClassOf, Agent)
+(music artist, subClassOf, Agent)
+(organización formal, subClassOf, Organization)
+(performer, subClassOf, Agent)
+(sound engineer, subClassOf, Agent)
+
+|||
+Question: {}
+Answer:

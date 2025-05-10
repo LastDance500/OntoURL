@@ -1,0 +1,24 @@
+Question: In the ontology of Software, which of the following definitions best describes the instance 'pT4b (colon)'?
+A. A pathologic primary tumor stage for colon and rectum according to AJCC 7th edition indicating carcinoma in situ (intraepithelial or invasion of lamina propria).
+B. A pathologic primary tumor stage for colon and rectum according to AJCC 7th edition indicating that the tumor directly invades other organs or structures.
+C. A pathologic primary tumor stage for colon and rectum according to AJCC 7th edition indicating that the tumor invades muscularis propria.
+D. A pathologic primary tumor stage for colon and rectum according to AJCC 7th edition indicating that there is no evidence of primary tumor.
+Answer: B
+
+Question: In the ontology of Financial Industry Business, which of the following definitions best describes the instance 'Uniform Bank Performance Report (UBPR) Repository'?
+A. EDGAR repository, a repository of financial information about securities and their issuers, including but not limited to corporate quarterly and annual filings, collected by the SEC
+B. Federal Financial Institutions Examination Council (FFIEC)'s Uniform Bank Performance Report (UBPR) Repository, a repository of institution characteristics and analytical tool created for bank supervisory, examination, and management purposes
+C. State of South Dakota registry of business information
+D. registry of business entities for businesses that have registered with the State of California Business Programs Division
+Answer: B
+
+Question: In the ontology of European Legislation Identifier, which of the following definitions best describes the instance 'partially in force'?
+A. Document has no particular or special standing.
+B. Document for which the text is conclusively what the law says. (The digitally signed version of an Official Journal.)
+C. Indicates that a legal resource is in force.
+D. Indicates that parts of the legal resource are in force, and parts are not.
+Answer: D
+
+|||
+Question: {}
+Answer:

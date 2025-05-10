@@ -1,0 +1,10 @@
+Question: In the ontology of Movie, which of the following classes does the instance 'Cie Allman' belong to?
+A. Movie
+B. Class
+C. Actor
+D. Person
+Answer: D
+
+|||
+Question: {}
+Answer:

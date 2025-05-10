@@ -1,0 +1,10 @@
+Question: In the ontology of Software, which of the following classes does 'PerkinElmer' belong to?
+A. xps
+B. obsolete_MAGE tab format
+C. ICS-501 (version 2.3) Image Capture System
+D. organization
+Answer: D
+
+|||
+Question: {}
+Answer:

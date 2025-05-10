@@ -1,0 +1,11 @@
+Question: Given the following Description Logic expression from the Financial Industry Business Ontology, determine whether it is satisfiable (true of false).
+investment_objective ⊓ ¬(investment_objective)
+Answer: False
+
+Question: Given the following Description Logic expression from the Public Contracts Ontology, determine whether it is satisfiable (true of false).
+=0 Criterion_for_contract_award..(Framework_agreement) ⊓ ∃Criterion_for_contract_award..(Framework_agreement)
+Answer: False
+
+|||
+Question: {}
+Answer:

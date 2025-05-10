@@ -1,0 +1,5 @@
+Construct the ontology’s property structure and output only the triples—comma-separated—in the form (subject, property, object).
+
+|||
+Question: {}
+Answer:

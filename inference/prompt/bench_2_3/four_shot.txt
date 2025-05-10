@@ -1,0 +1,31 @@
+Question: In the ontology of Movie, which of the following classes does the instance 'Cie Allman' belong to?
+A. Movie
+B. Class
+C. Actor
+D. Person
+Answer: D
+
+Question: In the ontology of Gender, Sex, and Sexual Orientation, which of the following classes does the instance 'Pajubá' belong to?
+A. multi-organism behavior
+B. X0 sex-determination system
+C. ze/mer/zemself pronouns
+D. leather subculture
+Answer: A
+
+Question: In the ontology of Environment, which of the following classes does the instance 'Northwestern Thorn Scrub Forests' belong to?
+A. sandy loam
+B. astronomical body part
+C. obsolete cereal food product
+D. composted animal manure
+Answer: B
+
+Question: In the ontology of Financial Industry Business, which of the following classes does the instance 'Federal Reserve Bank of New York US-NY' belong to?
+A. government body
+B. ABA IIN registry entry
+C. Federal Reserve district
+D. non-depository trust company - non-member institution
+Answer: A
+
+|||
+Question: {}
+Answer:

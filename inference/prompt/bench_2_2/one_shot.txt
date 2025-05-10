@@ -1,0 +1,10 @@
+Question: In the ontology of Plant, given that the property 'develops_from' has a domain of 'independent continuant', and 'anatomical entity' is a subclass of 'independent continuant', what is the range of 'develops_from' when applied to 'anatomical entity'?
+A. OBSOLETE starch sheath cell
+B. independent continuant
+C. PO_0000070
+D. OBSOLETE filiform apparatus
+Answer: B
+
+|||
+Question: {}
+Answer:

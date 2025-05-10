@@ -1,0 +1,2626 @@
+identifier,question,options,answer,task_label,domain,label,iri
+1_3_pj092773,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'back end load applicable'?","A. <class 'bool'>
+
+B. currency strategy
+
+C. fund dividend policy
+
+D. fund reinvestment policy",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_annmetlb,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Name'?","A. Graphical element
+
+B. Process
+
+C. Sequence Flow
+
+D. <class 'str'>",D,1_3,business_finance/bpmn,,
+1_3_kxjtztq1,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'Documentation'?","A. timer_intermediate_event
+
+B. Cancel Event Detail
+
+C. BPMN element
+
+D. Message Flow",C,1_3,business_finance/bpmn,,
+1_3_g7a349yh,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Execution requeriments'?","A. Contract additional obligations
+
+B. Expert committee
+
+C. Accepted tender
+
+D. <class 'str'>",D,1_3,legal/public_procurement_ontology,,
+1_3_n4vseag4,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Ad_hoc'?","A. Event Detail
+
+B. conditional_intermediate_event
+
+C. Flow Object
+
+D. <class 'bool'>",D,1_3,business_finance/bpmn,,
+1_3_0vpgvino,"In the ontology of Movie, which of the following is a valid range for the data property 'familyName'?","A. Actor
+
+B. None
+
+C. Director
+
+D. Spatial Thing",B,1_3,arts_media_entertainment/movie_ontology,,
+1_3_0axarjrk,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Test Time'?","A. Supporting Element
+
+B. OneOf(['After', 'Before'])
+
+C. task_types
+
+D. cancel_intermediate_event",B,1_3,business_finance/bpmn,,
+1_3_o2lwgfql,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'effect of designation'?","A. cross default provisions
+
+B. <class 'str'>
+
+C. master agreement termination provision
+
+D. tax withholding obligation",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_8tgv2m7i,"In the ontology of Comic Book, which of the following is a valid domain for the data property 'value'?","A. VisualArtwork
+
+B. Artwork
+
+C. Person
+
+D. Copy",D,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_d2dlkw3w,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'ongoing default'?","A. master agreement conditions precedent
+
+B. early termination
+
+C. master agreement change notification obligation
+
+D. netting terms",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_bz5oc3s0,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has best measure'?","A. rating
+
+B. rating scale
+
+C. qualitative rating score
+
+D. rating issuer",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_vncp2dun,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Ad_hoc'?","A. Send Task
+
+B. End
+
+C. <class 'bool'>
+
+D. Condition",C,1_3,business_finance/bpmn,,
+1_3_npi78x3e,"In the ontology of Comic Book, which of the following is a valid range for the data property 'series year'?","A. State
+
+B. Object
+
+C. None
+
+D. CoverArt",C,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_pylru7t0,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'boundary_visible'?","A. timer_intermediate_event
+
+B. Role
+
+C. Gate
+
+D. <class 'bool'>",D,1_3,business_finance/bpmn,,
+1_3_qii4nvzd,"In the ontology of Movie, which of the following is a valid domain for the data property 'age'?","A. Spatial Thing
+
+B. Class
+
+C. Person
+
+D. Agent",D,1_3,arts_media_entertainment/movie_ontology,,
+1_3_0svsqo0f,"In the ontology of Semantic Web for Earth and Environmental Terminology, which of the following is a valid domain for the data property 'has atoms'?","A. chemical
+
+B. Boleite
+
+C. Sinnerite
+
+D. suspended substance",A,1_3,earth_environment/sweet,,
+1_3_2rxvcz9v,"In the ontology of Foundational Model of Anatomy, which of the following is a valid range for the data property 'adjacent'?","A. Superior laryngeal artery
+
+B. Acetabular notch
+
+C. Wall proper of inflow part of left atrium
+
+D. <class 'bool'>",D,1_3,health_medicine/foundational_model_of_anatomy_ontology,,
+1_3_dr9w1x3w,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has date specification'?","A. calendar-specified interval
+
+B. ad hoc schedule entry
+
+C. specified date
+
+D. anchor date",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_a9avwx74,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Offered end date'?","A. Procedure resignation
+
+B. Tender
+
+C. Contract modification
+
+D. Ordinary administrative remedy",B,1_3,legal/public_procurement_ontology,,
+1_3_uzg9honl,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'sale method'?","A. dissemination
+
+B. process participant
+
+C. securities underwriting issuance process
+
+D. muni debt offering",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_2g62bmra,"In the ontology of Public Contracts, which of the following is a valid range for the data property 'Doba trvání zakázky'?","A. <class 'datetime.timedelta'>
+
+B. Award criteria combination
+
+C. Contract
+
+D. Framework agreement",A,1_3,business_finance/public_contracts_ontology,,
+1_3_eybnm4dp,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'holder may reinvest'?","A. portfolio benchmark
+
+B. semi annual reporting policy
+
+C. stake in fund
+
+D. <class 'bool'>",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_88dj7i9j,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'Implementation'?","A. Transaction
+
+B. Property
+
+C. User Task
+
+D. Service Task",D,1_3,business_finance/bpmn,,
+1_3_n7i6j7bj,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'offset for w i issue date'?","A. securities transaction contract
+
+B. when issued transaction
+
+C. settlement process
+
+D. <class 'int'>",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_7fcr8q6t,"In the ontology of Comic Book, which of the following is a valid range for the data property 'issue count'?","A. Costume
+
+B. Agent
+
+C. PublicationVolume
+
+D. <class 'int'>",D,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_3m994i75,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'transaction early termination date'?","A. master agreement conditions precedent
+
+B. credit support beneficiary
+
+C. credit support default event
+
+D. master agreement account change notification obligation",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_ktexyiwi,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Maximum budget change'?","A. Event
+
+B. Contract modification conditions
+
+C. Postal address
+
+D. Contract award notice",B,1_3,legal/public_procurement_ontology,,
+1_3_92ogm17n,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'declaration channel'?","A. fund reinvestment policy
+
+B. portfolio manager
+
+C. <class 'str'>
+
+D. fund redemption terms",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_zv52m9mk,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'is extendable by issuer'?","A. call schedule
+
+B. principal-only strip
+
+C. put feature
+
+D. <class 'bool'>",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_66q4a65v,"In the ontology of European Legislation Identifier, which of the following is a valid range for the data property 'rights'?","A. Complex Work
+
+B. Legal Resource Subdivision
+
+C. Person
+
+D. None",D,1_3,legal/european_legislation_identifier,,
+1_3_pkyjje80,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'Author'?","A. Lane
+
+B. Standard Loop Activity
+
+C. Business Process Diagram
+
+D. Loop Types",C,1_3,business_finance/bpmn,,
+1_3_u7dw6phi,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'series'?","A. negotiated sale method
+
+B. <class 'str'>
+
+C. secondary security offering distribution
+
+D. security issuance guarantor",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_4l1b14dr,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'ErrorCode'?","A. Event
+
+B. Reference Task
+
+C. conditional_intermediate_event
+
+D. <class 'str'>",D,1_3,business_finance/bpmn,,
+1_3_lyijeq5b,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Tender purpose'?","A. Briefing
+
+B. Contract resolution
+
+C. Tender meeting
+
+D. Contract",C,1_3,legal/public_procurement_ontology,,
+1_3_mdy6mt5e,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'is cash'?","A. synthetic balance sheet c d o
+
+B. <class 'bool'>
+
+C. synthetic c d o
+
+D. cash c d o tranche",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_i40kiuhd,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'change of account details allowed'?","A. master agreement account change notification obligation
+
+B. obligation in respect of netting
+
+C. payment place specified either in master agreement or confirmation
+
+D. tax withholding grossup obligation",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_mmh771ug,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Correlation'?","A. <class 'bool'>
+
+B. Event Detail
+
+C. Intermediate
+
+D. conditional_intermediate_event",A,1_3,business_finance/bpmn,,
+1_3_5cn3iq8f,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'ProduceAtCompletion'?","A. <class 'bool'>
+
+B. Inclusive Gateway
+
+C. End
+
+D. Message Event Detail",A,1_3,business_finance/bpmn,,
+1_3_cjrpsu0h,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'is pass through'?","A. pool-backed security
+
+B. weighted average remaining term
+
+C. detachment point
+
+D. absolute prepayment rate",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_r3irrfu8,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'dual fund'?","A. fund processing general terms
+
+B. preferred share in fund
+
+C. equity stake in fund
+
+D. fund reinvestment policy",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_nt6q9vo5,"In the ontology of Comic Book, which of the following is a valid domain for the data property 'copyright date'?","A. Item
+
+B. VisualArtwork
+
+C. Issue
+
+D. State",C,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_f7j2jx8x,"In the ontology of Comic Book, which of the following is a valid range for the data property 'page count'?","A. None
+
+B. PublicationIssue
+
+C. Material
+
+D. Collector",A,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_w8oqivhf,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Name'?","A. Terminate Event Detail
+
+B. Process
+
+C. Event
+
+D. <class 'str'>",D,1_3,business_finance/bpmn,,
+1_3_eo78zzx1,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'involves multiple events'?","A. failure to pay
+
+B. distressed ratings downgrade
+
+C. hard credit event
+
+D. obligation restructuring",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_o8s84nuy,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'subscription amount'?","A. <class 'int'>
+
+B. security offering sale method
+
+C. secondary security offering distribution
+
+D. securities issuance process",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_z5jr9f1o,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'make up for indemnifiable'?","A. payment place specified in confirmation message
+
+B. payment obligation
+
+C. derivative transaction master agreement
+
+D. <class 'bool'>",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_bxcs0a0h,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has intended loan purpose'?","A. total debt expense ratio
+
+B. loan application at agreement stage
+
+C. loan application
+
+D. underwriting automation",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_octfcjyx,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'main_pool'?","A. Assignment
+
+B. Message Event Detail
+
+C. Link Event Detail
+
+D. <class 'bool'>",D,1_3,business_finance/bpmn,,
+1_3_szlmycpz,"In the ontology of Public Contracts, which of the following is a valid range for the data property 'Actual end date of contract realization'?","A. Framework agreement
+
+B. Contract
+
+C. <class 'datetime.date'>
+
+D. Contract award weighted criterion",C,1_3,business_finance/public_contracts_ontology,,
+1_3_548bbuye,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'ExpressionLanguage'?","A. event_types
+
+B. Expression
+
+C. Connecting object
+
+D. Category",B,1_3,business_finance/bpmn,,
+1_3_q8l49cgk,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'has gender'?","A. <class 'str'>
+
+B. national identification number
+
+C. driver's license
+
+D. legal working age",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_v5gmp2ci,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'is seasoned'?","A. listed security
+
+B. <class 'bool'>
+
+C. listing
+
+D. registered security",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_m2d3fcpm,"In the ontology of Movie, which of the following is a valid range for the data property 'name'?","A. Director
+
+B. Movie
+
+C. None
+
+D. Agent",C,1_3,arts_media_entertainment/movie_ontology,,
+1_3_5arosi72,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has transaction description'?","A. bank
+
+B. individual transaction
+
+C. depository institution
+
+D. credit agreement",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_gvyp9ej1,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has extendable maturity date'?","A. common share
+
+B. preferred share
+
+C. dividend
+
+D. preferred dividend",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_vbe5r8n0,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Provisional financial guarantee'?","A. Contract additional obligations
+
+B. Prior information notice
+
+C. Private contract
+
+D. Procedure resignation",A,1_3,legal/public_procurement_ontology,,
+1_3_6p8ri75c,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'in default'?","A. collateral valuation
+
+B. loan
+
+C. prepayment
+
+D. court judgment",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_c0ew59yc,"In the ontology of Foundational Model of Anatomy, which of the following is a valid domain for the data property 'physical state'?","A. Material anatomical entity
+
+B. Cortex of right side of tuber of vermis of cerebellum
+
+C. Trunk of stylohyoid branch of left facial nerve
+
+D. Vasculature of bony part of distal phalanx of fourth toe",A,1_3,health_medicine/foundational_model_of_anatomy_ontology,,
+1_3_81um9hw6,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'name'?","A. annual reporting policy
+
+B. fund share class unit
+
+C. fund redemption restriction
+
+D. collective investment vehicle",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_0sac6vxn,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'IsATransaction'?","A. Data Based Exclusive Gateway
+
+B. <class 'bool'>
+
+C. Service Task
+
+D. Annotation",B,1_3,business_finance/bpmn,,
+1_3_ntagmmph,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'required days notice'?","A. delivery obligation
+
+B. master agreement obligations terms
+
+C. <class 'int'>
+
+D. credit support beneficiary",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_fkmfifug,"In the ontology of Movie, which of the following is a valid range for the data property 'lastName'?","A. Class
+
+B. None
+
+C. Actor
+
+D. Movie",B,1_3,arts_media_entertainment/movie_ontology,,
+1_3_ufwhkdzh,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'Name'?","A. none_intermediate_event
+
+B. Data Object
+
+C. Event
+
+D. Swimlane",D,1_3,business_finance/bpmn,,
+1_3_c7reltif,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'Name'?","A. message_intermediate_event
+
+B. Task [Atomic]
+
+C. Conditional Event Detail
+
+D. Flow Object",D,1_3,business_finance/bpmn,,
+1_3_r30v9z9u,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Number of lots'?","A. Tender meeting
+
+B. Public contract
+
+C. Tenderers requirements
+
+D. Public services management contract",B,1_3,legal/public_procurement_ontology,,
+1_3_xle66yuv,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Name'?","A. <class 'str'>
+
+B. TimeDate Expression
+
+C. Conditional Event Detail
+
+D. Multi Instance Loop Activity",A,1_3,business_finance/bpmn,,
+1_3_qa9a6gft,"In the ontology of Comic Book, which of the following is a valid domain for the data property 'alternative title'?","A. ComicIssue
+
+B. PhysicalObject
+
+C. Item
+
+D. Comic",D,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_5vczayjn,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'is cash'?","A. cash c d o tranche
+
+B. arbitrage cdo objective
+
+C. managed management style
+
+D. senior m b s tranche",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_bvb18zcb,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has share class'?","A. equity redemption provision with extendable redemption date
+
+B. auction rate dividend
+
+C. share
+
+D. dividend",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_27t0vgyl,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'Implementation'?","A. Artifact
+
+B. not_activity_boundary_intermediate_event
+
+C. User Task
+
+D. timer_intermediate_event",C,1_3,business_finance/bpmn,,
+1_3_w0lwjz20,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'is deferred'?","A. legal proceeding
+
+B. loan
+
+C. collateral valuation
+
+D. loan paid in full",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_q5r64xjg,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'redemption cycle in business days'?","A. settlement convention
+
+B. fund data provider
+
+C. fund portfolio investment limitations
+
+D. portfolio investment strategy",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_12ugq3y1,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Remedy resolution date'?","A. Procedure void
+
+B. Concession contract
+
+C. Remedy
+
+D. Information provider",C,1_3,legal/public_procurement_ontology,,
+1_3_vkzsizzu,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Criterion maximum and minimum score'?","A. Special administrative remedy
+
+B. Special administrative contract
+
+C. Remedy
+
+D. Award criterion",D,1_3,legal/public_procurement_ontology,,
+1_3_nbalcpj6,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Remedy resolution'?","A. Concept scheme
+
+B. Rent contract
+
+C. Contract additional obligations
+
+D. Remedy",D,1_3,legal/public_procurement_ontology,,
+1_3_5e71lvay,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'name'?","A. fund debt
+
+B. <class 'str'>
+
+C. s i c a f
+
+D. annual reporting policy",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_ak88b6sv,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Loop Maximum'?","A. End
+
+B. signal_intermediate_event
+
+C. artifact_types
+
+D. <class 'int'>",D,1_3,business_finance/bpmn,,
+1_3_lp44g7co,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Operation'?","A. <class 'str'>
+
+B. Embedded Sub-process
+
+C. message_intermediate_event
+
+D. multiple_intermediate_event",A,1_3,business_finance/bpmn,,
+1_3_snzjjryk,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Tender submission mode'?","A. Tender committee
+
+B. Place
+
+C. <class 'str'>
+
+D. Tenderers requirements",C,1_3,legal/public_procurement_ontology,,
+1_3_bcn0tkau,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'CompletionQuantity'?","A. link_intermediate_event
+
+B. Activity
+
+C. Association
+
+D. cancel_intermediate_event",B,1_3,business_finance/bpmn,,
+1_3_8dj0p6fc,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Implementation'?","A. signal_intermediate_event
+
+B. abstract_task
+
+C. Message
+
+D. OneOf(['Other', 'Unspecified', 'Web_Service'])",D,1_3,business_finance/bpmn,,
+1_3_d2szrs4q,"In the ontology of Comic Book, which of the following is a valid domain for the data property 'SKU'?","A. Product
+
+B. Thing
+
+C. ComicStory
+
+D. Copy",A,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_8ude7jz2,"In the ontology of Public Contracts, which of the following is a valid domain for the data property 'Contract award criterion weight'?","A. Framework agreement
+
+B. Contract award weighted criterion
+
+C. Contract
+
+D. Award criteria combination",B,1_3,business_finance/public_contracts_ontology,,
+1_3_16h48bt1,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'automatic netting applicable'?","A. netting terms
+
+B. credit support agreement
+
+C. tax withholding obligation
+
+D. derivative transaction master agreement",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_c5okok94,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'cross transaction netting election'?","A. payment obligation as delivery
+
+B. early termination
+
+C. <class 'bool'>
+
+D. cross default provisions",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_4lxlakae,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Modification reason'?","A. Briefing
+
+B. Tender meeting
+
+C. Contract modification
+
+D. Contract object",C,1_3,legal/public_procurement_ontology,,
+1_3_277ra4u5,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Maximum number of invitations'?","A. Extendable contract
+
+B. Mixed capital company contract
+
+C. Tender requirements
+
+D. <class 'str'>",D,1_3,legal/public_procurement_ontology,,
+1_3_f4oqbtcn,"In the ontology of Comic Book, which of the following is a valid domain for the data property 'start year'?","A. Publication
+
+B. Series
+
+C. Page Type
+
+D. Frequency",A,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_t5hzoke0,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'switching chargeable'?","A. fund processing general terms
+
+B. organization strategy
+
+C. fund manager
+
+D. money weighted rate of return performance determination method",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_w87d2uy4,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'is bank qualified'?","A. muni issue underwriter
+
+B. pool backed security securitization process
+
+C. <class 'bool'>
+
+D. c d o securitization process",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_6vd9dytz,"In the ontology of Comic Book, which of the following is a valid range for the data property 'synopsis'?","A. None
+
+B. Event
+
+C. Costume
+
+D. Agent",A,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_gm6ty0lk,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'Performers'?","A. Process
+
+B. Inclusive Gateway
+
+C. User Task
+
+D. Reusable Sub-process",A,1_3,business_finance/bpmn,,
+1_3_4wttrq5u,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'has ceiling'?","A. bond registrar
+
+B. <class 'float'>
+
+C. inflation-linked bond
+
+D. general obligation municipal bond",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_ktihfufi,"In the ontology of Comic Book, which of the following is a valid range for the data property 'page count'?","A. ComicSeries
+
+B. None
+
+C. Edition
+
+D. Planet",B,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_h6m0fhis,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'principal payments expected'?","A. credit o k
+
+B. security credit status
+
+C. in default
+
+D. security cashflow status",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_hs02imcf,"In the ontology of Video Game, which of the following is a valid range for the data property 'event name'?","A. <class 'str'>
+
+B. Tutorial
+
+C. Collection
+
+D. game event",A,1_3,arts_media_entertainment/videogameontology,,
+1_3_aydfe3az,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has oversubscribe option'?","A. mini-future certificate
+
+B. entitlement
+
+C. combined instruments purchase right
+
+D. private warrant",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_ppht3h6b,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Performers'?","A. Supporting Element
+
+B. Lane
+
+C. Web Service
+
+D. <class 'str'>",D,1_3,business_finance/bpmn,,
+1_3_lm4hewcc,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'physical document required'?","A. fund processing form
+
+B. fund unit distribution policy
+
+C. fund reinvestment policy
+
+D. money weighted rate of return performance determination method",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_9wu2tj0c,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Direction'?","A. Thing
+
+B. Artifact
+
+C. ArtifactOutput
+
+D. OneOf(['Both', 'None', 'One'])",D,1_3,business_finance/bpmn,,
+1_3_sx9qf7vj,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'type of securities'?","A. fund cash distribution policy
+
+B. fund investment restrictions set
+
+C. distributing share class
+
+D. fund distributor",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_fr9ddcnt,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Maximum subcontracting'?","A. Extendable contract
+
+B. <class 'float'>
+
+C. Contract modification conditions
+
+D. Works contract",B,1_3,legal/public_procurement_ontology,,
+1_3_8ikq4pxo,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Variant description'?","A. Multiannual contract
+
+B. Event
+
+C. Tender committee
+
+D. Contract object",D,1_3,legal/public_procurement_ontology,,
+1_3_we0yd3x1,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'has quote lot size'?","A. dirty price
+
+B. <class 'float'>
+
+C. trading day
+
+D. adjusted closing price",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_wk0p4v8b,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'has conversion ratio'?","A. short mini-future certificate
+
+B. <class 'float'>
+
+C. subscription right
+
+D. perpetual warrant",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_h8bm9s4r,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Assumption protecting the chosen procedure type'?","A. Contract procedure
+
+B. Concept
+
+C. Accepted tender
+
+D. Event",A,1_3,legal/public_procurement_ontology,,
+1_3_6272ne08,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Remedy interposed to'?","A. Lot
+
+B. Contract bodies
+
+C. Services contract
+
+D. Remedy",D,1_3,legal/public_procurement_ontology,,
+1_3_u7ma62ug,"In the ontology of European Legislation Identifier, which of the following is a valid range for the data property 'date of the document'?","A. <class 'datetime.date'>
+
+B. Format type
+
+C. Legal Expression
+
+D. E39_Actor",A,1_3,legal/european_legislation_identifier,,
+1_3_buuthaqr,"In the ontology of Extensible Observation, which of the following is a valid domain for the data property 'hasPrefixMultiplier'?","A. PrefixedUnit
+
+B. MillibarToBar
+
+C. Proportion
+
+D. MicrogramPerLiter",A,1_3,earth_environment/extensible_observation_ontology,,
+1_3_mldpyqo4,"In the ontology of Video Game, which of the following is a valid range for the data property 'release date'?","A. <class 'datetime.datetime'>
+
+B. Leaderboard
+
+C. Character
+
+D. gain event",A,1_3,arts_media_entertainment/videogameontology,,
+1_3_3lgxd2q0,"In the ontology of Comic Book, which of the following is a valid range for the data property 'sale price'?","A. Gutter
+
+B. None
+
+C. Collection
+
+D. ComicIssue",B,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_19i4c8lg,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'description'?","A. note fund unit
+
+B. fund processing terms
+
+C. fund order desk physical form document
+
+D. <class 'str'>",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_afql3oiq,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Remedy result'?","A. Legal remedy
+
+B. <class 'str'>
+
+C. Lease contract
+
+D. Dynamic purchasing system conclusion contract",B,1_3,legal/public_procurement_ontology,,
+1_3_hiwata59,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'Status'?","A. Swimlane
+
+B. Exclusive Types
+
+C. Activity
+
+D. BPMN element",C,1_3,business_finance/bpmn,,
+1_3_xlh0xdx2,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Maximum final price change'?","A. Contract object
+
+B. Contracting body agreement
+
+C. Contract modification conditions
+
+D. Public works concession contract",C,1_3,legal/public_procurement_ontology,,
+1_3_qixvhffo,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'TransactionId'?","A. Data Object
+
+B. Sub-process
+
+C. Process
+
+D. <class 'str'>",D,1_3,business_finance/bpmn,,
+1_3_nsu1mj1r,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'blacklisted'?","A. money weighted rate of return performance determination method
+
+B. accumulating share class
+
+C. organization strategy
+
+D. reporting frequency policy",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_3uwuafvx,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'StartQuantity'?","A. Message Flow
+
+B. Event Based Exclusive Gateway
+
+C. Activity
+
+D. message_intermediate_event",C,1_3,business_finance/bpmn,,
+1_3_phrdzg8w,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Date of notice publication'?","A. Offering
+
+B. Organization
+
+C. <class 'datetime.date'>
+
+D. Procedure void",C,1_3,legal/public_procurement_ontology,,
+1_3_2hp1ff50,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'issue offering units'?","A. security offering distribution method
+
+B. issuance process activity
+
+C. subscription closing information
+
+D. securities offering",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_yf8iw28c,"In the ontology of Movie, which of the following is a valid domain for the data property 'name'?","A. Movie
+
+B. Agent
+
+C. Actor
+
+D. Thing",D,1_3,arts_media_entertainment/movie_ontology,,
+1_3_y4ot04cu,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'discharged by netting'?","A. obligation in respect of netting
+
+B. master agreement account change notification obligation
+
+C. credit event definition
+
+D. payment place specified either in master agreement or confirmation",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_ow10ul54,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'super sinker'?","A. sinking fund amortization terms
+
+B. government issued debt security
+
+C. original issue discount bond
+
+D. bond with warrant",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_3g9y7qqw,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Query Language'?","A. Property
+
+B. cancel_intermediate_event
+
+C. <class 'str'>
+
+D. Reference Sub-process",C,1_3,business_finance/bpmn,,
+1_3_e0zott9z,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'MarkerVisible'?","A. Gateway
+
+B. Activity
+
+C. Data Based Exclusive Gateway
+
+D. none_intermediate_event",C,1_3,business_finance/bpmn,,
+1_3_fto7a9yr,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'is private'?","A. closed-end investment
+
+B. pooled fund
+
+C. mutual fund
+
+D. <class 'bool'>",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_4hw3zebe,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'decimal places'?","A. <class 'int'>
+
+B. debt instrument yield
+
+C. bond equivalent yield
+
+D. wall street yield calculation method",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_h55q219w,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'price quoted ex dividend'?","A. debt instrument yield
+
+B. internally determined price spread
+
+C. debt securities market maker
+
+D. life analytic",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_0h02maj2,"In the ontology of Comic Book, which of the following is a valid range for the data property 'purchase price'?","A. Vehicle
+
+B. Panel
+
+C. None
+
+D. Agent",C,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_c860vsd2,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has multiple'?","A. basket future
+
+B. index future
+
+C. financial future
+
+D. forward contract adjustment method",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_q021vovx,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'distribution with reinvestment'?","A. fund distributor
+
+B. fund processing terms
+
+C. fund unit distribution policy
+
+D. time weighted rate of return performance determination method",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_6y39eyzh,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'distribution with reinvestment'?","A. fund reinvestment policy
+
+B. fund administrator
+
+C. annual reporting policy
+
+D. s p v purpose",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_3mkx17g4,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Name'?","A. <class 'str'>
+
+B. User Task
+
+C. not_activity_boundary_intermediate_event
+
+D. Complex Gateway",A,1_3,business_finance/bpmn,,
+1_3_8iebovqu,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has merchant category description'?","A. merchant category code
+
+B. merchant category code scheme
+
+C. functional business entity
+
+D. family office",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_e6xkduwo,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Tender committee role'?","A. Formalized tender
+
+B. Special administrative remedy
+
+C. Committee member
+
+D. Award criterion",C,1_3,legal/public_procurement_ontology,,
+1_3_cubumfew,"In the ontology of Public Contracts, which of the following is a valid range for the data property 'Date of contract award'?","A. Otevírání nabídek
+
+B. <class 'datetime.date'>
+
+C. Tender
+
+D. Contract",B,1_3,business_finance/public_contracts_ontology,,
+1_3_oc22u9i8,"In the ontology of Comic Book, which of the following is a valid domain for the data property 'printing'?","A. Distributor
+
+B. Organization
+
+C. Guarantor
+
+D. Issue",D,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_ya3cb2zw,"In the ontology of Comic Book, which of the following is a valid domain for the data property 'name'?","A. Agent
+
+B. Comic Age
+
+C. Binding
+
+D. Collection",A,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_gbzjvz3o,"In the ontology of Public Contracts, which of the following is a valid domain for the data property 'Estimated end date of contract'?","A. Award criteria combination
+
+B. Tender
+
+C. Contract
+
+D. Contract award weighted criterion",C,1_3,business_finance/public_contracts_ontology,,
+1_3_ozzpjv4o,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'product group description'?","A. collective investment vehicle
+
+B. fund investment policy
+
+C. annualized performance determination method
+
+D. sector strategy",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_0eya5qjl,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'issue nominal number of units'?","A. security offering sale method
+
+B. issued security issue information
+
+C. traded instrument issuance process information
+
+D. offering",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_3v2rz7rv,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'TransactionProtocol'?","A. Transaction
+
+B. Assignment
+
+C. Task [Atomic]
+
+D. Activity",A,1_3,business_finance/bpmn,,
+1_3_epz2fuhs,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'include related firms'?","A. accumulating share class
+
+B. fund debt
+
+C. <class 'bool'>
+
+D. portfolio manager",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_glgbqrs8,"In the ontology of Extensible Observation, which of the following is a valid domain for the data property 'hasOffset'?","A. MilliliterPerLIter
+
+B. Measurement Type
+
+C. HectogramToKilogram
+
+D. Unit Conversion",D,1_3,earth_environment/extensible_observation_ontology,,
+1_3_84mqqfs4,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'has funds type'?","A. funds identifier
+
+B. monetary amount
+
+C. calculated price
+
+D. <class 'str'>",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_a3ivk4q3,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Construction subsidies'?","A. Tender committee
+
+B. Precomercial procurement
+
+C. Dynamic purchasing system derivative contract
+
+D. Contract economic conditions",D,1_3,legal/public_procurement_ontology,,
+1_3_xppcq80u,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'has estate or death put feature'?","A. call notification provision
+
+B. redemption event
+
+C. <class 'bool'>
+
+D. put window",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_rfaac8pd,"In the ontology of Comic Book, which of the following is a valid domain for the data property 'end year'?","A. Publication
+
+B. Character
+
+C. Agent
+
+D. Collector",A,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_bx03mrj2,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has legal description'?","A. contractual element
+
+B. contract third party
+
+C. transferable contract
+
+D. counterparty",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_f78uh8iq,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'allows payment in kind'?","A. step event
+
+B. debt offering
+
+C. <class 'bool'>
+
+D. relative price",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_97om7mvb,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Extinction cause'?","A. Tender committee
+
+B. Private contract
+
+C. Framework agreement or dynamic purchasing system
+
+D. <class 'str'>",D,1_3,legal/public_procurement_ontology,,
+1_3_mknrprn6,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'is assumable'?","A. loan payment schedule
+
+B. loan-to-value ratio
+
+C. loan
+
+D. total outstanding principal",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_y1tm435t,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'Script'?","A. Compensation Event Detail
+
+B. Participant
+
+C. sub_process_types
+
+D. Script Task",D,1_3,business_finance/bpmn,,
+1_3_j9yeo8yd,"In the ontology of Comic Book, which of the following is a valid range for the data property 'Diamond code'?","A. Building
+
+B. Intangible
+
+C. Guarantor
+
+D. None",D,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_eugaagwm,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'requirement section and paragraph'?","A. consumer credit protection law
+
+B. reg b
+
+C. loan regulatory requirement
+
+D. lender right",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_gqyxnu3z,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'has monitoring frequency'?","A. lookback strike terms
+
+B. projected value at maturity
+
+C. <class 'int'>
+
+D. knock-in option",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_k8ww9edv,"In the ontology of Comic Book, which of the following is a valid range for the data property 'volumeNumber'?","A. None
+
+B. Document
+
+C. Vehicle
+
+D. Agent",A,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_ddp74czo,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'announcement comments'?","A. <class 'str'>
+
+B. equity underwriting issuance process
+
+C. issuer counsel
+
+D. paying agent",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_e04cwnm7,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Score'?","A. Dynamic purchasing system conclusion contract
+
+B. Organization
+
+C. Criterion score
+
+D. Contracting body agreement",C,1_3,legal/public_procurement_ontology,,
+1_3_eslrzud7,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Name'?","A. ArtifactOutput
+
+B. Script Task
+
+C. Inclusive Gateway
+
+D. <class 'str'>",D,1_3,business_finance/bpmn,,
+1_3_cezyw8b2,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'AssignTime'?","A. Signal Event Detail
+
+B. Lane
+
+C. event_detail_types
+
+D. Assignment",D,1_3,business_finance/bpmn,,
+1_3_joldglcj,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Name'?","A. <class 'str'>
+
+B. Inclusive Gateway
+
+C. Group
+
+D. Data Based Exclusive Gateway",A,1_3,business_finance/bpmn,,
+1_3_vzrjelyo,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'is above strike price'?","A. <class 'bool'>
+
+B. Asian option classifier
+
+C. interest rate cap option
+
+D. knock-out option",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_lmz9er8j,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'in default'?","A. payment place specified either in master agreement or confirmation
+
+B. master agreement termination provision
+
+C. payment place specified in master agreement
+
+D. <class 'bool'>",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_iotn31c6,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'Instantiate'?","A. Receive Task
+
+B. Inclusive Gateway
+
+C. artifact_types
+
+D. Transaction",A,1_3,business_finance/bpmn,,
+1_3_wh4bv2gd,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Minimum number of operators'?","A. Framework derivative contract
+
+B. <class 'int'>
+
+C. Public contract
+
+D. Private contract",B,1_3,legal/public_procurement_ontology,,
+1_3_3pway11n,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Required economic and financial standing'?","A. Derivative contract
+
+B. <class 'str'>
+
+C. Contract notice
+
+D. Rent contract",B,1_3,legal/public_procurement_ontology,,
+1_3_jmpfjijd,"In the ontology of Semantic Web for Earth and Environmental Terminology, which of the following is a valid range for the data property 'has neutrons'?","A. Stercorite
+
+B. Huangite
+
+C. homeostasis
+
+D. <class 'int'>",D,1_3,earth_environment/sweet,,
+1_3_765j0n9v,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Other award terms'?","A. Tender
+
+B. Briefing
+
+C. Place
+
+D. Contract bodies",A,1_3,legal/public_procurement_ontology,,
+1_3_vgtobhmm,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'notify'?","A. early termination
+
+B. payment obligation as delivery
+
+C. master agreement conditions precedent
+
+D. <class 'bool'>",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_mow03kj2,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'allows auto-reinvestment'?","A. call premium
+
+B. notification provision
+
+C. interest payment terms
+
+D. step event",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_7lj0oz2o,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'has multiplier'?","A. <class 'float'>
+
+B. American depositary receipt level
+
+C. Hong Kong depositary receipt
+
+D. Japanese depositary receipt",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_s6nycfih,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has index name'?","A. capitalization-based weighting function
+
+B. credit index
+
+C. reference index
+
+D. market capitalization",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_beta87jg,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Early tramitation'?","A. Organization
+
+B. <class 'bool'>
+
+C. Correction notice
+
+D. Postal address",B,1_3,legal/public_procurement_ontology,,
+1_3_2lyji0s0,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'holding transferable'?","A. note fund unit
+
+B. key investor information document
+
+C. common share in fund
+
+D. <class 'bool'>",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_tws68ax6,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Maximum number of operators'?","A. Contract award notice
+
+B. Rent contract
+
+C. Conclusion contract
+
+D. Framework agreement or dynamic purchasing system",D,1_3,legal/public_procurement_ontology,,
+1_3_nvq66khd,"In the ontology of Movie, which of the following is a valid range for the data property 'firstName'?","A. Actor
+
+B. Director
+
+C. None
+
+D. Agent",C,1_3,arts_media_entertainment/movie_ontology,,
+1_3_g1gjlqmg,"In the ontology of Comic Book, which of the following is a valid range for the data property 'variance'?","A. Panel
+
+B. Item
+
+C. Document
+
+D. None",D,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_49bmfr0n,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'historic pricing indicator'?","A. <class 'bool'>
+
+B. refer to fund order desk
+
+C. portfolio benchmark
+
+D. fund auditor",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_r6hblmi6,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Formalized date'?","A. <class 'datetime.date'>
+
+B. Person
+
+C. Expert committee
+
+D. Excluded tender",A,1_3,legal/public_procurement_ontology,,
+1_3_helj5kym,"In the ontology of European Legislation Identifier, which of the following is a valid domain for the data property 'rights holder'?","A. F3_Manifestation_Product_Type
+
+B. Format
+
+C. Person
+
+D. Resource type",B,1_3,legal/european_legislation_identifier,,
+1_3_zrqypiah,"In the ontology of Comic Book, which of the following is a valid range for the data property 'issueNumber'?","A. Product
+
+B. Distributor
+
+C. None
+
+D. ComicSeries",C,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_2hs3jdvb,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'payment date calculation requirement'?","A. payment place specification method
+
+B. cross default provisions
+
+C. master agreement early termination provisions
+
+D. tax withholding grossup obligation",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_86h746b8,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'State'?","A. signal_intermediate_event
+
+B. Reference Sub-process
+
+C. <class 'str'>
+
+D. event_detail_types",C,1_3,business_finance/bpmn,,
+1_3_63vywiiu,"In the ontology of Public Contracts, which of the following is a valid range for the data property 'Number of tenders received'?","A. <class 'int'>
+
+B. Contract
+
+C. Award criteria combination
+
+D. Contract award weighted criterion",A,1_3,business_finance/public_contracts_ontology,,
+1_3_xm3yx872,"In the ontology of Video Game, which of the following is a valid domain for the data property 'username'?","A. instantaneous event
+
+B. Player
+
+C. Loyalty
+
+D. Achievement",B,1_3,arts_media_entertainment/videogameontology,,
+1_3_6331emwq,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'investment focus'?","A. bricks and mortar holding
+
+B. debt stake in fund
+
+C. portfolio investment strategy
+
+D. fund investment objective",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_mnv3mfns,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'signature required'?","A. portfolio investment strategy
+
+B. stake in fund
+
+C. refer to fund order desk
+
+D. <class 'bool'>",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_le4yl7ga,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'allows substitution'?","A. <class 'bool'>
+
+B. basket credit default swap
+
+C. multi-name credit default swap
+
+D. index tranche credit default swap",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_6v1cgr0w,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'fund class type identifier'?","A. fund unit
+
+B. bricks and mortar holding
+
+C. risk level
+
+D. income accumulation",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_li3fy08j,"In the ontology of Video Game, which of the following is a valid domain for the data property 'start time'?","A. lose event
+
+B. Achievement
+
+C. Paragon
+
+D. Session",D,1_3,arts_media_entertainment/videogameontology,,
+1_3_tryeo2jn,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has measure within scale'?","A. rating scale publisher
+
+B. rating issuer
+
+C. rating score
+
+D. rating agency",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_zeyjtb29,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'default interest applicable'?","A. derivative transaction master agreement
+
+B. default interest obligation
+
+C. delivery obligation
+
+D. master agreement representation",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_c6oqcsxk,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Recurrent remedy'?","A. <class 'str'>
+
+B. Contract resolution
+
+C. Framework conclusion contract
+
+D. Framework derivative contract",A,1_3,legal/public_procurement_ontology,,
+1_3_lx89gx6l,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Tender document needs'?","A. Expert committee
+
+B. Works contract
+
+C. <class 'str'>
+
+D. Contract activites",C,1_3,legal/public_procurement_ontology,,
+1_3_bx2wkg2a,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Tender submission supported language'?","A. Concept
+
+B. <class 'str'>
+
+C. Conclusion contract
+
+D. Dynamic purchasing system conclusion contract",B,1_3,legal/public_procurement_ontology,,
+1_3_7h1mbraz,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Other ability requisites'?","A. Tender committee
+
+B. <class 'str'>
+
+C. Remedy
+
+D. Concept scheme",B,1_3,legal/public_procurement_ontology,,
+1_3_5tz7c9uc,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'is open ended'?","A. exchange-traded fund
+
+B. CollectiveInvestmentVehicle
+
+C. pooled fund
+
+D. mutual fund",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_78a32dpm,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'is compounded'?","A. next call date
+
+B. debt instrument yield
+
+C. equivalent yield calculation method
+
+D. pool factor",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_wdm9q15h,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'subject to other provisions'?","A. master agreement obligations terms
+
+B. <class 'bool'>
+
+C. tax withholding liability
+
+D. payment place specified either in master agreement or confirmation",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_mue4ytnw,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'is cash'?","A. collateralized debt obligation
+
+B. static c d o portfolio
+
+C. mezzanine m b s tranche
+
+D. trigger event",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_e7sq081b,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'stated investment aim'?","A. currency strategy
+
+B. fund supervisory authority
+
+C. fund investment objective
+
+D. s i c a f",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_eb3oa39a,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'redemption in amount allowed'?","A. investment advisor
+
+B. fund redemption terms
+
+C. time weighted rate of return performance determination method
+
+D. funds processing party",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_48lphjud,"In the ontology of European Legislation Identifier, which of the following is a valid range for the data property 'published in'?","A. In force
+
+B. Work Subdivision
+
+C. Complex Work
+
+D. None",D,1_3,legal/european_legislation_identifier,,
+1_3_r47kr6cj,"In the ontology of Foundational Model of Anatomy, which of the following is a valid range for the data property 'gestation age  weeks'?","A. Right fetal parietal tuber
+
+B. <class 'int'>
+
+C. Left bronchopulmonary lymphatic vessel
+
+D. Left maxillary sinus orifice",B,1_3,health_medicine/foundational_model_of_anatomy_ontology,,
+1_3_rcvqlqtm,"In the ontology of European Legislation Identifier, which of the following is a valid domain for the data property 'alternative title'?","A. Legal Resource Subdivision
+
+B. Language
+
+C. Expression
+
+D. Version",C,1_3,legal/european_legislation_identifier,,
+1_3_zfqby3e4,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'compensate other party'?","A. default interest obligation
+
+B. other amounts obligation
+
+C. payment place specification method
+
+D. master agreement early termination right",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_fjnahcgi,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'has voting restriction'?","A. <class 'str'>
+
+B. preferred share with fixed maturity date
+
+C. preferred share
+
+D. common share",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_67gdwl77,"In the ontology of Semantic Web for Earth and Environmental Terminology, which of the following is a valid range for the data property 'has base neutrons'?","A. Seeligerite
+
+B. prominence
+
+C. disturbance
+
+D. <class 'int'>",D,1_3,earth_environment/sweet,,
+1_3_1jpfjned,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Creation Date'?","A. Assignment
+
+B. Cancel Event Detail
+
+C. <class 'datetime.date'>
+
+D. cancel_intermediate_event",C,1_3,business_finance/bpmn,,
+1_3_se4bhxn2,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'forward'?","A. payment place specification method
+
+B. <class 'bool'>
+
+C. delivery obligation
+
+D. master agreement early termination provisions",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_1w1lqzr3,"In the ontology of Movie, which of the following is a valid domain for the data property 'name'?","A. Agent
+
+B. Actor
+
+C. Spatial Thing
+
+D. Thing",D,1_3,arts_media_entertainment/movie_ontology,,
+1_3_hy9q0iiz,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Required technical and professional ability'?","A. Tenderers requirements
+
+B. Contract bodies
+
+C. Procedure void
+
+D. Framework conclusion contract",A,1_3,legal/public_procurement_ontology,,
+1_3_oid4dgx5,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Is negotiable'?","A. Award criterion
+
+B. Works contract
+
+C. Tender committee
+
+D. Tender committee",A,1_3,legal/public_procurement_ontology,,
+1_3_mpoyhomt,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'pay'?","A. payment place specified either in master agreement or confirmation
+
+B. payment place specified in confirmation message
+
+C. tax withholding grossup obligation
+
+D. obligation in respect of netting",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_vym0f1cn,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'Loop Counter'?","A. Annotation
+
+B. task_types
+
+C. Compensation Event Detail
+
+D. Standard Loop Activity",D,1_3,business_finance/bpmn,,
+1_3_r2ztxsoj,"In the ontology of Semantic Web for Earth and Environmental Terminology, which of the following is a valid range for the data property 'has numeric value'?","A. gravitational wave
+
+B. pasture
+
+C. diffusivity
+
+D. <class 'float'>",D,1_3,earth_environment/sweet,,
+1_3_kq89hkfq,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'Modification Date'?","A. Expression
+
+B. not_activity_boundary_intermediate_event
+
+C. Business Process Diagram
+
+D. Exclusive Types",C,1_3,business_finance/bpmn,,
+1_3_jkvfehf3,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'Interface'?","A. Web Service
+
+B. Lane
+
+C. Event Detail
+
+D. Swimlane",A,1_3,business_finance/bpmn,,
+1_3_hq22kgkh,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Tender committee appointment date'?","A. Contracting body agreement
+
+B. Tender committee
+
+C. Contract award notice
+
+D. Tender committee",B,1_3,legal/public_procurement_ontology,,
+1_3_acsdxbq0,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'over alloted'?","A. announcement
+
+B. subscriber
+
+C. issue subscription information
+
+D. subscription closing information",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_q2nc42fl,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'interest payments expected'?","A. credit o k
+
+B. in default
+
+C. security cashflow status
+
+D. <class 'bool'>",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_qa9nee0i,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'rounding convention'?","A. u s treasury yield calculation method
+
+B. duration analytic
+
+C. yield calculation method
+
+D. bond equivalent yield",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_c0cxr0ev,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'specified indebtedness'?","A. payment place specified either in master agreement or confirmation
+
+B. <class 'str'>
+
+C. master agreement right to termination following default event
+
+D. early termination",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_mmgd292j,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'inclusion'?","A. fund portfolio investment limitations
+
+B. annualized performance determination method
+
+C. fund processing terms
+
+D. debt stake in fund",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_s0u7tn1e,"In the ontology of Extensible Observation, which of the following is a valid range for the data property 'hasPrecision'?","A. Gallon
+
+B. Day
+
+C. Identifier
+
+D. <class 'float'>",D,1_3,earth_environment/extensible_observation_ontology,,
+1_3_j7asvstj,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'ExpressionBody'?","A. <class 'str'>
+
+B. Service Task
+
+C. Timer Event Detail
+
+D. event_detail_types",A,1_3,business_finance/bpmn,,
+1_3_qfauvs1o,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Reserved contract restrictions'?","A. Notice
+
+B. <class 'str'>
+
+C. Shared result agreement contract
+
+D. Tender committee",B,1_3,legal/public_procurement_ontology,,
+1_3_3asfevow,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Type'?","A. <class 'str'>
+
+B. Service Task
+
+C. Output Set
+
+D. activity_boundary_intermediate_event",A,1_3,business_finance/bpmn,,
+1_3_r95kz0w6,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Required classification'?","A. Bundle price
+
+B. Tenderers requirements
+
+C. Objective award criterion
+
+D. Contract or procedure extinction",B,1_3,legal/public_procurement_ontology,,
+1_3_kuytggib,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'has debt ranking'?","A. capitalization-based weighting function
+
+B. equity index
+
+C. <class 'str'>
+
+D. credit index constituent",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_2trq8m9n,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'limited shares are issued'?","A. fund share class unit
+
+B. fund redemption restriction
+
+C. asset class strategy
+
+D. fund supervisory authority",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_uvwib82r,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Implementation'?","A. Business Process Diagram
+
+B. Error Event Detail
+
+C. signal
+
+D. OneOf(['Other', 'Unspecified', 'Web_Service'])",D,1_3,business_finance/bpmn,,
+1_3_peqs229o,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has floor'?","A. amortizing bond
+
+B. municipal debt source of funds
+
+C. rate basis convention
+
+D. variable interest expression",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_zx2n1ffz,"In the ontology of Public Contracts, which of the following is a valid domain for the data property 'Datum začátku realizace zakázky'?","A. Contract
+
+B. Award criteria combination
+
+C. Tender
+
+D. Contract award weighted criterion",A,1_3,business_finance/public_contracts_ontology,,
+1_3_3iqcjuxl,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'Name'?","A. Object
+
+B. Connecting object
+
+C. message_intermediate_event
+
+D. Inclusive Gateway",B,1_3,business_finance/bpmn,,
+1_3_jmrv47kz,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Language'?","A. Exclusive Types
+
+B. <class 'str'>
+
+C. signal
+
+D. Message",B,1_3,business_finance/bpmn,,
+1_3_fjp95q4s,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'dealing frequency description'?","A. funds cash distribution
+
+B. <class 'str'>
+
+C. fund management company
+
+D. s p v purpose",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_oek165al,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'uses weighted average'?","A. knock-out option
+
+B. lookback option
+
+C. Asian option
+
+D. double barrier option",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_ysma5h1m,"In the ontology of Movie, which of the following is a valid domain for the data property 'title'?","A. Actor
+
+B. Person
+
+C. Movie
+
+D. Spatial Thing",C,1_3,arts_media_entertainment/movie_ontology,,
+1_3_oe6ebe7g,"In the ontology of Comic Book, which of the following is a valid domain for the data property 'CCA'?","A. Library
+
+B. State
+
+C. Building
+
+D. Issue",D,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_jnzq6o9g,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'right to retain'?","A. relative price
+
+B. put notification provision
+
+C. put schedule
+
+D. put feature",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_v1w37mn6,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'quoted ex dividend'?","A. maturity equivalent p s a
+
+B. prepayment speed
+
+C. option adjusted yield
+
+D. <class 'bool'>",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_4jn51uag,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'accelerated principal payments expected'?","A. security cashflow status
+
+B. credit o k
+
+C. in default
+
+D. security credit status",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_v98wq7fv,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'potential default'?","A. master agreement conditions precedent
+
+B. delivery obligation
+
+C. master agreement change notification obligation
+
+D. currency specification term",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_veqlirgc,"In the ontology of Comic Book, which of the following is a valid domain for the data property 'certification number'?","A. State
+
+B. Document
+
+C. Intangible
+
+D. Copy",D,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_d9kb25ko,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'MI_ordering'?","A. Process
+
+B. Loop Types
+
+C. OneOf(['Parallel', 'Sequential'])
+
+D. Link Event Detail",C,1_3,business_finance/bpmn,,
+1_3_brhs96o5,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'is estimate'?","A. standard deviation
+
+B. median
+
+C. statistical measure
+
+D. arithmetic mean",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_j2mbh5fy,"In the ontology of Comic Book, which of the following is a valid domain for the data property 'tracking'?","A. Location
+
+B. Series
+
+C. ComicCoverArt
+
+D. Gutter",B,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_8891t8q2,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'requirement act reference'?","A. good faith estimate
+
+B. consumer protection agency
+
+C. loan regulatory requirement
+
+D. consumer right",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_5c3joi74,"In the ontology of Comic Book, which of the following is a valid domain for the data property 'issn'?","A. Vehicle
+
+B. Agent
+
+C. Format
+
+D. Periodical",D,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_vpeibymm,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'front end load applicable'?","A. fund contract
+
+B. <class 'bool'>
+
+C. sector strategy
+
+D. fund bond class unit",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_bxv21uyd,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'valuation frequency textual description'?","A. asset class strategy
+
+B. fund supervisory authority
+
+C. net asset value calculation method
+
+D. funds processing party",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_2r2ccupy,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'includes penalty payments'?","A. <class 'bool'>
+
+B. master agreement element
+
+C. tax withholding liability
+
+D. credit support beneficiary",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_rvt7renx,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Name'?","A. Inclusive Gateway
+
+B. error_intermediate_event
+
+C. Data Based Exclusive Gateway
+
+D. <class 'str'>",D,1_3,business_finance/bpmn,,
+1_3_tphzbovw,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'is ARM convertible'?","A. loan secured by real estate
+
+B. closed-end mortgage loan
+
+C. open-end mortgage loan
+
+D. open-end reverse mortgage",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_xu11b8uq,"In the ontology of Movie, which of the following is a valid domain for the data property 'name'?","A. Director
+
+B. Movie
+
+C. Person
+
+D. Spatial Thing",C,1_3,arts_media_entertainment/movie_ontology,,
+1_3_jv0s0g5n,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'is redeemable at issuer option'?","A. equity redemption provision
+
+B. ordinary dividend
+
+C. <class 'bool'>
+
+D. exchangeable preferred share",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_64mhl4t6,"In the ontology of Comic Book, which of the following is a valid range for the data property 'distributor code'?","A. Event
+
+B. Museum
+
+C. Format
+
+D. None",D,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_m85vepxk,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Criterion evaluation mode'?","A. <class 'str'>
+
+B. Ordinary administrative remedy
+
+C. Extendable contract
+
+D. Contract or procedure extinction",A,1_3,legal/public_procurement_ontology,,
+1_3_z2y48a7p,"In the ontology of Foundational Model of Anatomy, which of the following is a valid domain for the data property 'species'?","A. Body
+
+B. CD5+CD8+ Lymphocyte
+
+C. Right pectoral girdle
+
+D. Set of joints of T8-T9 vertebrae",A,1_3,health_medicine/foundational_model_of_anatomy_ontology,,
+1_3_56pgalmp,"In the ontology of Comic Book, which of the following is a valid domain for the data property 'feature'?","A. Series
+
+B. Comic
+
+C. Library
+
+D. Balloon",B,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_qn5n7lpu,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Notice sent date'?","A. Conclusion contract
+
+B. Contract notice
+
+C. Extendable contract
+
+D. <class 'datetime.date'>",D,1_3,legal/public_procurement_ontology,,
+1_3_5fez5mvy,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'over allotment expiry period days'?","A. issue over allotment terms
+
+B. issuer counsel
+
+C. registered security issuance process
+
+D. debt underwriting issuance process",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_dzlw1ovj,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'price is traded'?","A. debt pool
+
+B. effective yield
+
+C. simple yield calculation method
+
+D. <class 'bool'>",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_ese50amy,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Notice site'?","A. <class 'str'>
+
+B. Agreement contract
+
+C. Contract modification
+
+D. Organization",A,1_3,legal/public_procurement_ontology,,
+1_3_xg4y8gdl,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'is subject to reserve requirements'?","A. domestic branch of domestic bank
+
+B. representative office of a foreign bank
+
+C. <class 'bool'>
+
+D. international bank of US depositary, edge, trust company",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_7zurj1pq,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'decimal place rounding'?","A. time weighted rate of return performance determination method
+
+B. fund processing terms
+
+C. fund dividend policy
+
+D. private equity holding",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_i9myymvu,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'maximum over allotment shares'?","A. debt auction process
+
+B. process participant
+
+C. transfer agent
+
+D. issue over allotment terms",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_9jhb6hwx,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'is fractional eligible'?","A. settlement terms
+
+B. cash settlement terms
+
+C. physical settlement terms
+
+D. delivery method",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_0c10z6lq,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'process_type'?","A. Process
+
+B. signal_intermediate_event
+
+C. Standard Loop Activity
+
+D. conditional_intermediate_event",A,1_3,business_finance/bpmn,,
+1_3_gmjywdi7,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Name'?","A. <class 'str'>
+
+B. Message Flow
+
+C. End
+
+D. Assignment",A,1_3,business_finance/bpmn,,
+1_3_6hsqqhk2,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'Version'?","A. Business Process Diagram
+
+B. Graphical element
+
+C. Send Task
+
+D. Start",A,1_3,business_finance/bpmn,,
+1_3_50m1eose,"In the ontology of Comic Book, which of the following is a valid range for the data property 'page number'?","A. None
+
+B. Copy
+
+C. Document
+
+D. ComicSeries",A,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_gv2n89e8,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'stated objective'?","A. fund distributor
+
+B. fund prospectus
+
+C. fund transfer agent
+
+D. fund auditor",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_g9fqlvw9,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Modification scope'?","A. Contract bodies
+
+B. Formalization notice
+
+C. Works contract
+
+D. <class 'str'>",D,1_3,legal/public_procurement_ontology,,
+1_3_3nkove4u,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'Documentation'?","A. Terminate Event Detail
+
+B. Object
+
+C. Business Process Diagram
+
+D. Association",C,1_3,business_finance/bpmn,,
+1_3_1dttbuni,"In the ontology of Movie, which of the following is a valid domain for the data property 'birthday'?","A. Spatial Thing
+
+B. Agent
+
+C. Person
+
+D. Actor",B,1_3,arts_media_entertainment/movie_ontology,,
+1_3_wdl2kulz,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'net or gross of fees'?","A. swing
+
+B. accrued fees
+
+C. fee payable
+
+D. fund unit performance",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_mlntn9tm,"In the ontology of Comic Book, which of the following is a valid domain for the data property 'indicia publisher'?","A. Copy
+
+B. State
+
+C. Issue
+
+D. Panel",C,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_wgdh6s7s,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'is pro-rated'?","A. bond conversion terms
+
+B. sovereign debt instrument
+
+C. <class 'bool'>
+
+D. fixed coupon terms",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_zw672q0y,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Expected cause modification'?","A. Conclusion contract
+
+B. Remedy
+
+C. <class 'str'>
+
+D. Electronic auction phase",C,1_3,legal/public_procurement_ontology,,
+1_3_4foruojh,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has conversion factor'?","A. future
+
+B. bond future
+
+C. basket future
+
+D. debt instrument future",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_laof3n6h,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'Status'?","A. timer_intermediate_event
+
+B. Process
+
+C. signal_intermediate_event
+
+D. ArtifactInput",B,1_3,business_finance/bpmn,,
+1_3_5yovttri,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'subject to other provisions'?","A. derivative transaction master agreement
+
+B. payment obligation
+
+C. credit event definition
+
+D. payment obligation as delivery",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_oq4mbqt2,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'payable by counterparty'?","A. <class 'bool'>
+
+B. default interest obligation
+
+C. tax withholding liability
+
+D. master agreement obligations terms",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_rx7evwor,"In the ontology of Public Contracts, which of the following is a valid domain for the data property 'Lhůta pro vyžádání dokumentace k veřejné zakázce'?","A. Contract
+
+B. Otevírání nabídek
+
+C. Framework agreement
+
+D. Award criteria combination",A,1_3,business_finance/public_contracts_ontology,,
+1_3_zwnsx94k,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Name'?","A. Service Task
+
+B. message_intermediate_event
+
+C. <class 'str'>
+
+D. signal",C,1_3,business_finance/bpmn,,
+1_3_n0rz8f9y,"In the ontology of Public Contracts, which of the following is a valid domain for the data property 'Doba trvání nabídky'?","A. Contract
+
+B. Award criteria combination
+
+C. Otevírání nabídek
+
+D. Framework agreement",A,1_3,business_finance/public_contracts_ontology,,
+1_3_2d2ch799,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'prime'?","A. agency m b s pool
+
+B. GNMA-i pool
+
+C. real estate mortgage investment conduit
+
+D. <class 'bool'>",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_cqpjfg5t,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'AdHocOrdering'?","A. Connecting object
+
+B. Loop Types
+
+C. Expression
+
+D. Embedded Sub-process",D,1_3,business_finance/bpmn,,
+1_3_3r67taab,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Price review allowable'?","A. Offering
+
+B. Expert committee
+
+C. Contract economic conditions
+
+D. Technical committee",C,1_3,legal/public_procurement_ontology,,
+1_3_ael5kyrn,"In the ontology of Extensible Observation, which of the following is a valid range for the data property 'hasMultiplier'?","A. Dekameter
+
+B. Milliliter
+
+C. CelsiusToKelvin
+
+D. <class 'float'>",D,1_3,earth_environment/extensible_observation_ontology,,
+1_3_1dbrmlxv,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'is fully automated securities transfer applicable'?","A. delivery method
+
+B. settlement
+
+C. cash settlement terms
+
+D. settlement terms",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_qu2i1e97,"In the ontology of Comic Book, which of the following is a valid range for the data property 'UPC'?","A. Gutter
+
+B. Distributor
+
+C. Volume
+
+D. None",D,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_dyzp114a,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Lodged remedy date'?","A. Bundle price
+
+B. Public works concession contract
+
+C. <class 'datetime.date'>
+
+D. Correction notice",C,1_3,legal/public_procurement_ontology,,
+1_3_0xlapg3i,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'is assignable'?","A. transferable contract
+
+B. assignable contract
+
+C. termination provision
+
+D. <class 'bool'>",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_yren5l1p,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'is redeemable at shareholder option'?","A. preferred share with fixed maturity date
+
+B. redemption provision
+
+C. preferred share with auction rate dividend
+
+D. special dividend",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_qrrg2l4f,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has number of depositary receipts issued'?","A. depositary receipt
+
+B. Indian depositary receipt
+
+C. participatory note
+
+D. American depositary receipt",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_iv8mjzma,"In the ontology of Movie, which of the following is a valid range for the data property 'launchDate'?","A. Movie
+
+B. Agent
+
+C. <class 'int'>
+
+D. Spatial Thing",C,1_3,arts_media_entertainment/movie_ontology,,
+1_3_d6z12ftu,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Other guarantee'?","A. <class 'str'>
+
+B. Place
+
+C. Contract without lots
+
+D. Public contract",A,1_3,legal/public_procurement_ontology,,
+1_3_0gb1spuy,"In the ontology of Comic Book, which of the following is a valid domain for the data property 'cover date'?","A. Issue
+
+B. Series
+
+C. Plastic
+
+D. Imprint",A,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_vqo2o40s,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Variant admission'?","A. Technical committee
+
+B. Subjective award criterion
+
+C. Framework derivative contract
+
+D. <class 'bool'>",D,1_3,legal/public_procurement_ontology,,
+1_3_yh4iodja,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Price percentage change'?","A. Awarded tender
+
+B. Notice
+
+C. Electronic auction
+
+D. <class 'float'>",D,1_3,legal/public_procurement_ontology,,
+1_3_b7tc9nyd,"In the ontology of Extensible Observation, which of the following is a valid range for the data property 'hasPower'?","A. Hertz
+
+B. CurrentDensity
+
+C. <class 'int'>
+
+D. BarToKilopascal",C,1_3,earth_environment/extensible_observation_ontology,,
+1_3_oh8mxlal,"In the ontology of Comic Book, which of the following is a valid range for the data property 'publication date'?","A. None
+
+B. Product
+
+C. Building
+
+D. Vehicle",A,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_qbztsf8w,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'subscriptions in amount allowed'?","A. equity asset
+
+B. fund order desk physical form document
+
+C. fund subscription terms
+
+D. fund portfolio investment policy",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_obytvvmr,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'is legal opinion available'?","A. put feature
+
+B. <class 'bool'>
+
+C. municipal debt funds usage
+
+D. sovereign bond",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_ys3l30bz,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'MarkerVisible'?","A. Exclusive Types
+
+B. Event Based Exclusive Gateway
+
+C. Flow Object
+
+D. Script Task",B,1_3,business_finance/bpmn,,
+1_3_zi1e0xbe,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has book depth'?","A. best bid
+
+B. calculated price
+
+C. rate of return
+
+D. security price",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_hggpp7lg,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'minimum remaining holding units'?","A. fund share class unit
+
+B. fund processing general terms
+
+C. equity asset
+
+D. collective investment vehicle",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_cyogtyvl,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Compulsory means for execution'?","A. <class 'str'>
+
+B. Tender committee
+
+C. Contract activites
+
+D. Event",A,1_3,legal/public_procurement_ontology,,
+1_3_lgxd94ku,"In the ontology of Comic Book, which of the following is a valid domain for the data property 'indicia frequency'?","A. ComicStory
+
+B. Sequence
+
+C. Contributor
+
+D. Issue",D,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_xz1da8ms,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'minimum issue subscription'?","A. issue subscription information
+
+B. issuance process activity
+
+C. security issuance guarantor
+
+D. security offering distribution method",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_sixh7ww3,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'Id'?","A. Gateway Types
+
+B. Object
+
+C. Intermediate
+
+D. Send Task",B,1_3,business_finance/bpmn,,
+1_3_scy4zka6,"In the ontology of Foundational Model of Anatomy, which of the following is a valid range for the data property 'days post-fertilization'?","A. Post-incisive part of hard palate
+
+B. Fibrous membrane of right deep infrapatellar bursa
+
+C. <class 'str'>
+
+D. Periosteum of left articular process of fifth lumbar vertebra",C,1_3,health_medicine/foundational_model_of_anatomy_ontology,,
+1_3_t46j150a,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'Name'?","A. Swimlane
+
+B. Message
+
+C. Message Event Detail
+
+D. Assignment",B,1_3,business_finance/bpmn,,
+1_3_hjz92ouw,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'TransactionMethod'?","A. OneOf(['Compensate', 'Image', 'Store'])
+
+B. Exclusive Types
+
+C. Association
+
+D. Inclusive Gateway",A,1_3,business_finance/bpmn,,
+1_3_2v9zd3r3,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has extendable redemption date'?","A. equity redemption provision
+
+B. fixed rate dividend
+
+C. hard retractable preferred share
+
+D. equity redemption provision with extendable redemption date",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_khmhfg7a,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Name'?","A. Parallel Gateway
+
+B. compensation_intermediate_event
+
+C. <class 'str'>
+
+D. Object",C,1_3,business_finance/bpmn,,
+1_3_pkkqmtks,"In the ontology of Comic Book, which of the following is a valid range for the data property 'item number'?","A. None
+
+B. Collector
+
+C. Plastic
+
+D. Collection",A,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_2jd3dpiv,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has original loan debt-to-income ratio'?","A. loan application at disbursement stage
+
+B. pre-approval request
+
+C. borrower assessment
+
+D. public record",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_wbx3cr8h,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Loop Counter'?","A. Activity
+
+B. none_intermediate_event
+
+C. <class 'int'>
+
+D. event_detail_types",C,1_3,business_finance/bpmn,,
+1_3_q8ypuw6i,"In the ontology of Comic Book, which of the following is a valid domain for the data property 'on-sale date'?","A. Panel
+
+B. Issue
+
+C. Material
+
+D. PhysicalObject",B,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_tf62xbn1,"In the ontology of Video Game, which of the following is a valid range for the data property 'end time'?","A. game event
+
+B. Player
+
+C. <class 'datetime.datetime'>
+
+D. in-app purchase event",C,1_3,arts_media_entertainment/videogameontology,,
+1_3_966mc1lr,"In the ontology of Public Contracts, which of the following is a valid range for the data property 'Lhůta pro doručení nabídek nebo přijetí žádostí o účast'?","A. Otevírání nabídek
+
+B. Framework agreement
+
+C. <class 'datetime.datetime'>
+
+D. Award criteria combination",C,1_3,business_finance/public_contracts_ontology,,
+1_3_1gn2xoa9,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'End mode'?","A. <class 'str'>
+
+B. Additional information notice
+
+C. Formalization notice
+
+D. Electronic auction phase",A,1_3,legal/public_procurement_ontology,,
+1_3_lux2g3io,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'excludes energy and food'?","A. enterprise population
+
+B. combined statistical area
+
+C. civilian non-institutional person
+
+D. <class 'bool'>",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_w3zvlejw,"In the ontology of Comic Book, which of the following is a valid range for the data property 'series title'?","A. VisualArtwork
+
+B. None
+
+C. Balloon
+
+D. Collection",B,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_yrvtzuoe,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'additional restrictions'?","A. portfolio manager
+
+B. liquidity
+
+C. <class 'str'>
+
+D. funds processing account",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_hry0ubgq,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Minimum number of invitations'?","A. Supplies contract
+
+B. Special administrative contract
+
+C. Contract procedure
+
+D. Public services management contract",C,1_3,legal/public_procurement_ontology,,
+1_3_kgo5cc60,"In the ontology of European Legislation Identifier, which of the following is a valid range for the data property 'responsibility of'?","A. F1_Work
+
+B. F11_Corporate_Body
+
+C. F10_Person
+
+D. <class 'str'>",D,1_3,legal/european_legislation_identifier,,
+1_3_8diu1fs3,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'statement calculation requirements'?","A. <class 'str'>
+
+B. master agreement account change notification obligation
+
+C. payment obligation
+
+D. master agreement termination provision",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_2vr1ex06,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Advertisement amount'?","A. Contract economic conditions
+
+B. Contract additional obligations
+
+C. Extendable contract
+
+D. Additional information notice",B,1_3,legal/public_procurement_ontology,,
+1_3_z9gr4hz3,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Start date of the tender dossier'?","A. Award criteria combination
+
+B. <class 'datetime.date'>
+
+C. Mixed contract
+
+D. Contract or procedure extinction",B,1_3,legal/public_procurement_ontology,,
+1_3_x43tg02u,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Final financial guarantee'?","A. Prior information notice
+
+B. Public contract
+
+C. <class 'float'>
+
+D. Contract economic conditions",C,1_3,legal/public_procurement_ontology,,
+1_3_9g4u2e2m,"In the ontology of Video Game, which of the following is a valid domain for the data property 'event time'?","A. menu event
+
+B. ProductOrService
+
+C. Character
+
+D. instantaneous event",D,1_3,arts_media_entertainment/videogameontology,,
+1_3_69vz8vv9,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'ParticipantType'?","A. Data Object
+
+B. Participant
+
+C. Multi Instance Loop Activity
+
+D. User Task",B,1_3,business_finance/bpmn,,
+1_3_ian15wb7,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'MI_FlowCondition'?","A. End
+
+B. Multi Instance Loop Activity
+
+C. Pool
+
+D. Thing",B,1_3,business_finance/bpmn,,
+1_3_zorlr7ry,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'description'?","A. risk level
+
+B. fund investment restrictions set
+
+C. unit issuer
+
+D. portfolio benchmark",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_9psrzups,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'minimum initial subscription units'?","A. <class 'int'>
+
+B. fund unit distribution policy
+
+C. fund legal form documentation
+
+D. sector strategy",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_0xdg8qyq,"In the ontology of European Legislation Identifier, which of the following is a valid range for the data property 'title'?","A. None
+
+B. Expression
+
+C. F22_Self-Contained_Expression
+
+D. Work Subdivision",A,1_3,legal/european_legislation_identifier,,
+1_3_13n4rdnd,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'main fund order desk'?","A. <class 'bool'>
+
+B. portfolio investment strategy
+
+C. portfolio manager
+
+D. fund subscription terms",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_3kx52h7i,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'clear funds required'?","A. fund cash distribution policy
+
+B. <class 'bool'>
+
+C. fund management company
+
+D. reporting frequency policy",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_bm7eafrt,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'AdHocOrdering'?","A. Web Service
+
+B. Lane
+
+C. Message
+
+D. OneOf(['Parallel', 'Sequential'])",D,1_3,business_finance/bpmn,,
+1_3_4hlmtwse,"In the ontology of Business Process Model and Notation, which of the following is a valid domain for the data property 'Implementation'?","A. Data Based Exclusive Gateway
+
+B. abstract_task
+
+C. Message Event Detail
+
+D. Receive Task",C,1_3,business_finance/bpmn,,
+1_3_cho4c8y8,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Prorogation number expected'?","A. Framework derivative contract
+
+B. Criterion score
+
+C. Contract temporal conditions
+
+D. Contract notice",C,1_3,legal/public_procurement_ontology,,
+1_3_6v9ipf5g,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has worst measure'?","A. rating
+
+B. rating agency
+
+C. rating scale
+
+D. qualitative rating score",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_4t5nj82z,"In the ontology of Comic Book, which of the following is a valid domain for the data property 'coverPrice'?","A. State
+
+B. Building
+
+C. Publication
+
+D. Issue",D,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_qbnrvhht,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'RequiredForStart'?","A. <class 'bool'>
+
+B. BPMN element
+
+C. Pool
+
+D. not_activity_boundary_intermediate_event",A,1_3,business_finance/bpmn,,
+1_3_5u8ylzo1,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Duration change'?","A. Contract modification
+
+B. Bundle price
+
+C. Works contract
+
+D. Contract notice",A,1_3,legal/public_procurement_ontology,,
+1_3_1ko8uk1b,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'is bank qualified'?","A. variable interest expression
+
+B. <class 'bool'>
+
+C. municipal debt remarketing agent
+
+D. bond with published sinking fund",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_tpogjap8,"In the ontology of Comic Book, which of the following is a valid domain for the data property 'story title'?","A. Publication
+
+B. Product
+
+C. Creator
+
+D. Story",D,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_iy1w5sgj,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'minimum subscription units'?","A. gross of fee performance determination method
+
+B. fund legal form documentation
+
+C. stake in fund
+
+D. <class 'int'>",D,1_3,business_finance/financial_industry_business_ontology,,
+1_3_f6n4sxaj,"In the ontology of Movie, which of the following is a valid range for the data property 'gender'?","A. Agent
+
+B. Class
+
+C. Director
+
+D. None",D,1_3,arts_media_entertainment/movie_ontology,,
+1_3_7vo92ez8,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Price Review Index'?","A. Contract economic conditions
+
+B. Contract temporal conditions
+
+C. Concession contract
+
+D. Contract additional obligations",A,1_3,legal/public_procurement_ontology,,
+1_3_d7dcn5im,"In the ontology of Comic Book, which of the following is a valid range for the data property 'imprint name'?","A. Page Type
+
+B. PhysicalObject
+
+C. Issue
+
+D. None",D,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_a2q0exr4,"In the ontology of Public Procurement, which of the following is a valid domain for the data property 'Date of award'?","A. Concept scheme
+
+B. Electronic auction
+
+C. Postal address
+
+D. Tender",D,1_3,legal/public_procurement_ontology,,
+1_3_a574zqh8,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'has pool number'?","A. redemption event
+
+B. make whole feature
+
+C. <class 'int'>
+
+D. call feature",C,1_3,business_finance/financial_industry_business_ontology,,
+1_3_v2i60fjz,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'payment in kind delivery obligation'?","A. payment obligation
+
+B. <class 'str'>
+
+C. master agreement early termination provisions
+
+D. master agreement obligations terms",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_sokns252,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'is extendable by holder'?","A. put event
+
+B. redemption provision
+
+C. put notification provision
+
+D. non-tradable debt instrument",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_l7xu0buh,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Time-limit for submission of tenders or requests to participate'?","A. Buy contract
+
+B. <class 'datetime.datetime'>
+
+C. Framework derivative contract
+
+D. Concept",B,1_3,legal/public_procurement_ontology,,
+1_3_zwwb7il9,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'over allotment available'?","A. <class 'bool'>
+
+B. equity underwriting issuance process
+
+C. issue over allotment terms
+
+D. correspondent",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_1s48ejzd,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'has spread range'?","A. <class 'str'>
+
+B. credit index
+
+C. reference index
+
+D. credit index constituent",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_irq64lmc,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Minimum subcontracting'?","A. <class 'float'>
+
+B. Supplies contract
+
+C. Mixed capital company contract
+
+D. Mixed contract",A,1_3,legal/public_procurement_ontology,,
+1_3_wn51qxpn,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'is negotiable'?","A. financial instrument
+
+B. <class 'bool'>
+
+C. equity instrument
+
+D. security",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_28yrfz6j,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'freely transferable funds'?","A. <class 'bool'>
+
+B. master agreement change notification obligation
+
+C. currency specification term
+
+D. master agreement account change notification obligation",A,1_3,business_finance/financial_industry_business_ontology,,
+1_3_yyuesqo7,"In the ontology of European Legislation Identifier, which of the following is a valid domain for the data property 'short title'?","A. Expression
+
+B. Formally defined as the set of skos:Concept in concept scheme eli:WorkTypeTable
+
+C. Legal Resource
+
+D. Format type",A,1_3,legal/european_legislation_identifier,,
+1_3_49enfvz8,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Text'?","A. Sequence Flow
+
+B. signal
+
+C. Connecting object
+
+D. <class 'str'>",D,1_3,business_finance/bpmn,,
+1_3_wng8zrpx,"In the ontology of Financial Industry Business, which of the following is a valid range for the data property 'maximum redemption units'?","A. investment advisor
+
+B. <class 'int'>
+
+C. fund processing general terms
+
+D. refer to fund order desk",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_eadiwh4k,"In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Condition Type'?","A. Error Event Detail
+
+B. OneOf(['Default', 'Expression', 'None'])
+
+C. manual_task
+
+D. Supporting Element",B,1_3,business_finance/bpmn,,
+1_3_rbwg4fz5,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'series'?","A. issued security issue information
+
+B. securities offering
+
+C. subscription closing information
+
+D. issuance programme",B,1_3,business_finance/financial_industry_business_ontology,,
+1_3_d698kq2z,"In the ontology of Comic Book, which of the following is a valid range for the data property 'publisher name'?","A. Balloon
+
+B. None
+
+C. PublicationVolume
+
+D. Panel",B,1_3,arts_media_entertainment/comic_book_ontology,,
+1_3_2f9b6xo8,"In the ontology of Public Procurement, which of the following is a valid range for the data property 'Remedy reason'?","A. Subjective award criterion
+
+B. Contract modification
+
+C. Contract with lots
+
+D. <class 'str'>",D,1_3,legal/public_procurement_ontology,,
+1_3_nbfun5oi,"In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'underwriter takedown shares'?","A. registration information
+
+B. offering
+
+C. competitive sale method
+
+D. underwriter takedown",D,1_3,business_finance/financial_industry_business_ontology,,

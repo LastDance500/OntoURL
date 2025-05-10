@@ -1,0 +1,5 @@
+Given a multiple‐choice question with options, select the one correct class and output only its letter (A, B, C, D, ...).
+
+|||
+Question: {}
+Answer:

@@ -1,0 +1,31 @@
+Question: In the ontology of Human Phenotype, which of the following classes is the superclass of 'regulation of leukocyte differentiation'?
+A. regulation of hemopoiesis
+B. Parathyroid dysgenesis
+C. Olfactory lobe agenesis
+D. positive regulation of G protein-coupled receptor signaling pathway
+Answer: A
+
+Question: In the ontology of Video Game Ontology, which of the following classes is the superclass of 'Metroidvania'?
+A. Explorative
+B. Textual
+C. Adventure
+D. Mechanic
+Answer: C
+
+Question: In the ontology of Gender, Sex, and Sexual Orientation, which of the following classes is the superclass of 'lesbian rights activist'?
+A. African culture
+B. LGBTQ rights activist
+C. entity
+D. gender behavior
+Answer: B
+
+Question: In the ontology of Occupation, which of the following classes is the superclass of 'transportation planner'?
+A. property appraiser or assessor
+B. drafter, engineering technician, or mapping technician
+C. electronic equipment installer or repairer, motor vehicle
+D. miscellaneous social scientist or related worker
+Answer: D
+
+|||
+Question: {}
+Answer:

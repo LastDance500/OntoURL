@@ -1,0 +1,31 @@
+Question: In the ontology of Plant, which of the following definitions best describes 'calyx'?
+A. A collective phyllome structure that is composed of one or more petals , comprising the inner whorl of non-reproductive floral organs and surrounds the androecium and the gynoecium .
+B. A collective phyllome structure composed all of the carpels in a flower .
+C. A collective phyllome structure that encloses a fruit of the Poaceae (caryopsis) and develops from a dried lemma and palea.
+D. A collective phyllome structure that is composed of one or more sepals , and comprises the outer whorl of non-reproductive floral organs .
+Answer: D
+
+Question: In the ontology of Environment, which of the following definitions best describes 'non alcoholic beverage (eurofir)'?
+A. Marine streamers are tongues of cold water that extend > 100 km offshore from upwelling regions. Enhanced primary productivity may occur in these waters as they are typically more nutrient rich than marine surface waters.
+B. Alcoholic or non-alcoholic beverage; excludes milk and milk-based beverages.
+C. Beverage prepared by extracting flavour and other components from food sources by percolation and/or immersion in water, usually at near-boiling temperature. The group includes coffee (e.g. instant coffee, coffee and chicory essence), tea, herbal tea (e.g. green tea, black tea, tisane), cocoa beverage and beverage powder.
+D. Beverage containing no more than 0.5% alcohol; it may be flavoured, sweetened or carbonated; includes soft drinks and steeped beverages; excludes milk in all forms, fruit juices and vegetable juices.
+Answer: D
+
+Question: In the ontology of Foundational Model of Anatomy, which of the following definitions best describes 'Anterior inferior iliac spine'?
+A. Iliac spine, each instance of which is a blunt prominence projecting from the anteroinferior part of the wing of some ilium.
+B. Iliac spine, each instance of which is a blunt prominence projecting from the posteroinferior part of some ilium, at the the posterior end of some facies auricularis and the superior end of some greater sciatic notch.
+C. Iliac spine, each instance of which is a blunt prominence at the anterior end of some iliac crest.
+D. Iliac spine, each instance of which is a blunt prominence at the posterior end of some iliac crest.
+Answer: A
+
+Question: In the ontology of Gender, Sex, and Sexual Orientation, which of the following definitions best describes 'feminist philosophy'?
+A. An approach to philosophy from a feminist perspective and also the employment of philosophical methods to feminist topics and questions. Feminist philosophy involves both reinterpreting philosophical texts and methods in order to supplement the feminist movement and attempts to criticise or re-evaluate the ideas of traditional philosophy from within a feminist framework.
+B. Any of various philosophies which examine the goals, forms, methods, and meaning of education. The term is used to describe both fundamental philosophical analysis of these themes and the description or analysis of particular pedagogical approaches. Considerations of how the profession relates to broader philosophical or sociocultural contexts may be included.
+C. The study of questions about social behavior and interpretations of society and social institutions in terms of ethical values rather than empirical relations.
+D. The study of topics such as politics, liberty, justice, property, rights, law, and the enforcement of laws by authority: what they are, if they are needed, what makes a government legitimate, what rights and freedoms it should protect, what form it should take, what the law is, and what duties citizens owe to a legitimate government, if any, and when it may be legitimately overthrown, if ever.
+Answer: A
+
+|||
+Question: {}
+Answer:

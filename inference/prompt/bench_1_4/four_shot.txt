@@ -1,0 +1,31 @@
+Question: In the ontology of Software, which of the following classes does 'PerkinElmer' belong to?
+A. xps
+B. obsolete_MAGE tab format
+C. ICS-501 (version 2.3) Image Capture System
+D. organization
+Answer: D
+
+Question: In the ontology of Video Game, which of the following classes does 'agonistic' belong to?
+A. Genre
+B. FirstPerson
+C. Sportive
+D. Educational
+Answer: C
+
+Question: In the ontology of Movie, which of the following classes does 'Omar Doom' belong to?
+A. Director
+B. Movie
+C. Class
+D. Actor
+Answer: D
+
+Question: In the ontology of Environment, which of the following classes does 'Australasia Ecoregion' belong to?
+A. impromptu campground
+B. silicon molecular entity
+C. acoustic radiation
+D. terrestrial ecoregion
+Answer: D
+
+|||
+Question: {}
+Answer:

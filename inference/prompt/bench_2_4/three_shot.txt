@@ -1,0 +1,24 @@
+Question: In the ontology of Gene, suppose an individual ?x satisfies: ubiquitin ligase complex(?x). Which conclusion is inferred?
+A. oxidoreductase complex(?x)
+B. exodeoxyribonuclease VII complex(?x)
+C. aminodeoxychorismate synthase complex(?x)
+D. transferase complex(?x)
+Answer: D
+
+Question: In the ontology of Financial Industry Business, suppose an individual ?x satisfies: credit card product(?x). Which conclusion is inferred?
+A. consumer credit card agreement(?x, ?y)
+B. card verification value(?x, ?y)
+C. has credit card network(?x, ?y)
+D. has credit card network(?y, ?x)
+Answer: C
+
+Question: In the ontology of Occupation, suppose an individual ?x satisfies: advertising or promotions manager(?x). Which conclusion is inferred?
+A. has skill(?x, ?y)
+B. environmental engineer (broad)(?x, ?y)
+C. has skill(?y, ?x)
+D. not has skill(?x, ?y)
+Answer: A
+
+|||
+Question: {}
+Answer:
