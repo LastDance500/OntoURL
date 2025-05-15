@@ -104,7 +104,7 @@ for split in "${splits[@]}"; do
         echo "▶ Running split=$split, prompt=$shot"
         prompt_path="./prompt/bench_${split}/${shot}.txt"
         CUDA_VISIBLE_DEVICES=0,1,2,3 python infer_script.py \
-              --dataset XiaoZhang98/OntoBench \
+              --dataset XiaoZhang98/OntoURL \
               --split_index "$split" \
               --model Qwen/Qwen2.5-7B-Instruct \
               --prompt_path "$prompt_path" \
@@ -125,7 +125,7 @@ for split in "${splits[@]}"; do
         echo "▶ Running split=$split, prompt=$shot"
         prompt_path="./prompt/bench_${split}/${shot}.txt"
         CUDA_VISIBLE_DEVICES=0,1,2,3 python infer_script.py \
-              --dataset XiaoZhang98/OntoBench \
+              --dataset XiaoZhang98/OntoURL \
               --split_index "$split" \
               --model Qwen/Qwen2.5-7B-Instruct \
               --prompt_path "$prompt_path" \
