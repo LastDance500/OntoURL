@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://arxiv.org/abs/xxxx.xxxxx">📄 Paper</a> •
+  <a href="https://arxiv.org/abs/2505.11031">📄 Paper</a> •
   <a href="https://huggingface.co/datasets/XiaoZhang98/OntoURL">🤗 Dataset</a> •
   <a href="#task-categories">🧠 Tasks</a> •
   <a href="#baseline-results-sample">📊 Results</a> •
