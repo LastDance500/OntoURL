@@ -1,0 +1,13 @@
+let's think step by step and put your final answer within \\boxed{}.
+Here are some examples.
+
+Question: In the ontology of Software, which of the following definitions best describes the instance 'pT4b (colon)'?
+A. A pathologic primary tumor stage for colon and rectum according to AJCC 7th edition indicating carcinoma in situ (intraepithelial or invasion of lamina propria).
+B. A pathologic primary tumor stage for colon and rectum according to AJCC 7th edition indicating that the tumor directly invades other organs or structures.
+C. A pathologic primary tumor stage for colon and rectum according to AJCC 7th edition indicating that the tumor invades muscularis propria.
+D. A pathologic primary tumor stage for colon and rectum according to AJCC 7th edition indicating that there is no evidence of primary tumor.
+Answer: AJCC pT categories describe tumor invasion extent: pT4b means direct invasion of other organs. pTis is in situ (A), pT2 invades muscularis propria (C), and pT0 indicates no tumor (D). So the answer is B.
+
+|||
+Question: {}
+Answer:

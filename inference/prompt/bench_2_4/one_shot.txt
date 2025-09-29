@@ -1,3 +1,6 @@
+Given a multiple‐choice question with options, select the one correct expression and put the letter between <ans> and </ans>.
+Here are some examples.
+
 Question: In the ontology of Gene, suppose an individual ?x satisfies: ubiquitin ligase complex(?x). Which conclusion is inferred?
 A. oxidoreductase complex(?x)
 B. exodeoxyribonuclease VII complex(?x)

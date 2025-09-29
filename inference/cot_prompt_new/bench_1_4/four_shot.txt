@@ -1,0 +1,34 @@
+let's think step by step and put your final answer within \\boxed{}.
+Here are some examples.
+
+Question: In the ontology of Software, which of the following classes does 'PerkinElmer' belong to?
+A. xps
+B. obsolete_MAGE tab format
+C. ICS-501 (version 2.3) Image Capture System
+D. organization
+Answer: PerkinElmer is a company providing scientific tools and software. Options A–C name specific software or formats, not corporate entities. So the answer is D.
+
+Question: In the ontology of Video Game, which of the following classes does 'agonistic' belong to?
+A. Genre
+B. FirstPerson
+C. Sportive
+D. Educational
+Answer: “Agonistic” denotes competitive, sport‑like interactions. FirstPerson is a viewpoint, Genre is too broad, Educational is about learning, leaving Sportive as the correct competitive class. So the answer is C.
+
+Question: In the ontology of Movie, which of the following classes does 'Omar Doom' belong to?
+A. Director
+B. Movie
+C. Class
+D. Actor
+Answer: Omar Doom is known for performing roles in films. He is not a director, a movie, or a meta‑class, but an actor. So the answer is D.
+
+Question: In the ontology of Environment, which of the following classes does 'Australasia Ecoregion' belong to?
+A. impromptu campground
+B. silicon molecular entity
+C. acoustic radiation
+D. terrestrial ecoregion
+Answer: Australasia Ecoregion is a broad land‑based ecological region. The other options refer to campgrounds, molecules, or sound. So the answer is D.
+
+|||
+Question: {}
+Answer:

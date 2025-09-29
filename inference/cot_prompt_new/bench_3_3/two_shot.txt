@@ -1,0 +1,92 @@
+Question: Here is a list of classes and properties in the ontology of Wine. Please provide all relationships properties in triple format.
+Classes:
+- Bordeaux
+- DessertWine
+- EarlyHarvest
+- Grape
+- LateHarvest
+- PotableLiquid
+- Sauternes
+- SweetRiesling
+- WineColor
+- WineDescriptor
+- WineGrape
+- WineTaste
+- wine
+Object Properties:
+- hasColor
+- hasFlavor
+- hasMaker
+- hasVintageYear
+- hasWineDescriptor
+- locatedIn
+- madeFromGrape
+- producesWine
+Data Properties:
+- yearValue
+Answer: (wine, hasColor, WineColor)
+(wine, hasWineDescriptor, WineDescriptor)
+(wine, madeFromGrape, WineGrape)
+
+Question: Here is a list of classes and properties in the ontology of Software. Please provide all relationships properties in triple format.
+Classes:
+- FlowRepository Open Access Terms of Use
+- GNU GPL
+- GNU GPL Compatible License Type
+- GNU LGPL
+- GNU Project Free License Type
+- LPPL
+- License without restrictions on derivatives
+- MIACA Full Copyright
+- MPL
+- NLM Open License with Attribution
+- OPL v1.0
+- Open source software license
+- SBGN Open License with Attribution
+- Terms of Use for EMBL-EBI Services
+- licence
+Object Properties:
+- achieves_planned_objective
+- acts upstream of or within, negative effect
+- acts upstream of, negative effect
+- acts upstream of, positive effect
+- capable of positively regulating
+- causal agent in process
+- directly regulates
+- enables
+- enables subfunction
+- follows
+- has part
+- has participant
+- has role
+- has specified data output
+- has version
+- immediately precedes
+- implements
+- indirectly causally upstream of
+- input of
+- involved in negative regulation of
+- involved in positive regulation of
+- involved in regulation of
+- is about
+- is compatible license of
+- is executed in
+- is implemented by
+- process has causal agent
+- quality of
+- regulated by
+- regulates characteristic
+- role of
+- temporally related to
+- uses platform
+Data Properties:
+- has documentation
+- has download location
+- has release date
+- has support URL
+- has website homepage
+Answer: (licence, is compatible license of, licence)
+
+|||
+Question: {}
+Answer:

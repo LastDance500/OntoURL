@@ -1,0 +1,163 @@
+Question: Here is a list of classes and properties in the ontology of Semantic Web for Earth and Environmental Terminology. Please generate the property constraints (domain or range) in triple form.
+Classes:
+- chemical quantity
+- coordinates
+- electromagnetic quantity
+- electromagnetic radiation quantity
+- extensive property
+- fluence
+- intensive property
+- minimum
+- number density
+- physical quantity
+- quantity
+- scientific quantity
+- species
+- thermodynamic quantity
+- unit
+Properties:
+- nonoverlapping
+- kills
+- has minimum
+- has coordinates
+- has upper boundary
+- has average duration
+- has unit
+- impacts
+- causes
+- due to
+Answer: (has coordinates, range, coordinates)
+(has minimum, range, minimum)
+(has unit, domain, quantity)
+(has unit, range, unit)
+(kills, range, species)
+
+Question: Here is a list of classes and properties in the ontology of CIDOC Conceptual Reference Model. Please generate the property constraints (domain or range) in triple form.
+Classes:
+- E1 CRM Entity
+- E10 Transfer of Custody
+- E18 Physical Thing
+- E19 Physical Object
+- E5 Event
+- E53 Place
+- E55 Type
+- E66 Formation
+- E7 Activity
+- E74 Group
+- E78 Curated Holding
+- E8 Acquisition
+- E87 Curation Activity
+- E89 Propositional Object
+- E92 Spacetime Volume
+Properties:
+- P147i was curated by
+- P161 has spatial projection
+- P67 refers to
+- P30i custody transferred through
+- P137i is exemplified by
+- P20i was purpose of
+- P24 transferred title of
+- P55 has current location
+- P148i is component of
+- P151i participated in
+Answer: (P137i is exemplified by, domain, E55 Type)
+(P137i is exemplified by, range, E1 CRM Entity)
+(P147i was curated by, domain, E78 Curated Holding)
+(P147i was curated by, range, E87 Curation Activity)
+(P148i is component of, domain, E89 Propositional Object)
+(P148i is component of, range, E89 Propositional Object)
+(P151i participated in, domain, E74 Group)
+(P151i participated in, range, E66 Formation)
+(P161 has spatial projection, domain, E92 Spacetime Volume)
+(P161 has spatial projection, range, E53 Place)
+(P20i was purpose of, domain, E5 Event)
+(P20i was purpose of, range, E7 Activity)
+(P24 transferred title of, domain, E8 Acquisition)
+(P24 transferred title of, range, E18 Physical Thing)
+(P30i custody transferred through, domain, E18 Physical Thing)
+(P30i custody transferred through, range, E10 Transfer of Custody)
+(P55 has current location, domain, E19 Physical Object)
+(P55 has current location, range, E53 Place)
+(P67 refers to, domain, E89 Propositional Object)
+(P67 refers to, range, E1 CRM Entity)
+
+Question: Here is a list of classes and properties in the ontology of Semantic Web for Earth and Environmental Terminology. Please generate the property constraints (domain or range) in triple form.
+Classes:
+- basis function
+- damping depth
+- depth
+- distance
+- drawdown
+- electricity
+- energy
+- energy collection
+- energy form
+- ocean depth
+- power source
+- property
+- secchi depth
+- skin depth
+- vertical extent
+Properties:
+- has vertices
+- was generated at
+- radius
+- has energy product
+- reduction in
+- caused by
+- falling
+- has depth
+- has basis function
+- has end
+Answer: (has basis function, range, basis function)
+(has depth, range, depth)
+(has energy product, range, energy form)
+(reduction in, range, property)
+
+Question: Here is a list of classes and properties in the ontology of Comic Book. Please generate the property constraints (domain or range) in triple form.
+Classes:
+- Comic
+- Contributor
+- Copy
+- CreativeWork
+- Document
+- Imprint
+- IndividualProduct
+- Issue
+- Item
+- Object
+- Publication
+- Publisher
+- Sequence
+- Series
+- Team
+Properties:
+- imprint of
+- publisher
+- variantCover
+- writer
+- copy of
+- sale price
+- certification number
+- object
+- team
+- tracking
+Answer: (certification number, domain, Copy)
+(copy of, domain, Copy)
+(copy of, range, Issue)
+(imprint of, domain, Imprint)
+(imprint of, range, Publisher)
+(object, domain, Comic)
+(object, range, Object)
+(publisher, domain, Series)
+(publisher, range, Publisher)
+(sale price, domain, Item)
+(team, domain, Comic)
+(team, range, Team)
+(tracking, domain, Series)
+(writer, domain, Comic)
+(writer, range, Contributor)
+
+|||
+Question: {}
+Answer:

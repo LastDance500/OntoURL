@@ -1,3 +1,6 @@
+Construct the ontology’s structure and output the triple in the form (subject, predicate, object). Put all triples in <ans> and </ans> and seperate triples by space.
+Here are some examples.
+
 Question: Here is a list of classes in the ontology of Legal. Please provide all relationships between classes in triple format.
 Classes:
 - Assumption

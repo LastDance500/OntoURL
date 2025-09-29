@@ -1,3 +1,6 @@
+Given an open-ended question, please generate a comprehensive text in <ans> and </ans>.
+Here are some examples.
+
 Question: Please provide the definition of the concept 'epithelium of terminal part of digestive tract', as an element in Cell Ontology.
 Answer: Epithelium lining the distalmost portion of the digestive tract.
 

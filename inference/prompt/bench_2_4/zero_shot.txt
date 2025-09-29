@@ -1,4 +1,4 @@
-Given a multiple‐choice question with options, select the one correct expression and output only its letter (A, B, C, D, ...).
+Given a multiple‐choice question with options, select the one correct expression and put the letter between <ans> and </ans>.
 
 |||
 Question: {}

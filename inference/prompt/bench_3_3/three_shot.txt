@@ -1,3 +1,6 @@
+Construct the ontology’s property structure and output the triple in the form (subject, predicate, object). Put all triples in <ans> and </ans> and seperate triples by space.
+Here are some examples.
+
 Question: Here is a list of classes and properties in the ontology of Wine. Please provide all relationships properties in triple format.
 Classes:
 - Bordeaux

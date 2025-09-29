@@ -1,0 +1,20 @@
+Question: Please align the classes between these two ontologies:
+- Ontology 1 classes: ['Person', 'Review_expertise', 'Reviewer', 'Regular_author', 'Co-chair', 'Committee', 'Committee_member', 'Abstract', 'Extended_abstract', 'Important_dates', 'Invited_speaker', 'Conference_document', 'Organization', 'Regular_contribution', 'Poster', 'Written_contribution', 'Conference_applicant', 'Program_committee', 'Organizing_committee', 'Steering_committee', 'Conference_volume', 'Conference', 'Call_for_paper', 'Paper', 'Invited_talk', 'Conference_part', 'Presentation', 'Chair', 'Track', 'Workshop', 'Tutorial', 'Review', 'Topic', 'Late_paid_applicant', 'Paid_applicant', 'Early_paid_applicant', 'Organizer', 'Publisher', 'Track-workshop_chair', 'Conference_www', 'Conference_fees', 'Review_preference']
+- Ontology 2 classes: ['SlideSet', 'Review', 'Programme', 'Paper', 'MealMenu', 'Document', 'Topic', 'ConferenceEvent', 'Call', 'ReviewRating', 'Organization', 'ReviewForm', 'Conference', 'PersonalHistory', 'Sponsorship', 'ReviewQuestion', 'Person', 'Country', 'ConferenceSession', 'ContactInformation', 'Place', 'WeekRejectRating', 'AcceptRating', 'AccpetIfRoomRating', 'RejectRating', 'MealEvent', 'NonAcademicEvent', 'BreakEvent', 'CADTopic', 'MultimediaTopic', 'CommunicationsTopic', 'AntennasTopic', 'PerformanceTopic', 'TestOnlyTopic', 'MedicineTopic', 'SecurityTopic', 'MobileComputingTopic', 'CryptographyTopic', 'ConferenceChair', 'Author', 'DiningPlace', 'Presenter', 'AcademiaOrganization', 'IndustryOrganization', 'NGO', 'ActivePaper', 'PendingPaper', 'WithdrawnPaper', 'RejectedPaper', 'AcceptedPaper', 'PublishedPaper', 'Attendee', 'CoffeeBreak', 'FreeTimeBreak', 'MealBreak', 'Reviewer', 'ClosingTalk', 'WelcomeTalk', 'TalkEvent', 'SessionChair', 'TPCMember', 'TwoLevelConference', 'CallForPapers', 'PaperPresentation', 'Workshop', 'AcademicEvent', 'Excursion', 'SocialEvent', 'CallForReviews', 'ConferenceVenuePlace', 'CallForManuscripts', 'Reception', 'MeetingRoomPlace', 'AccommodationPlace', 'RatedPapers', 'TravelGrant', 'ConferenceDinner']
+Answer: ('Person', 'Person')
+('Organization', 'Organization')
+('Reviewer', 'Reviewer')
+('has_the_first_name', 'hasFirstName')
+('Conference_part', 'ConferenceEvent')
+('Workshop', 'Workshop')
+('Conference_document', 'Document')
+('Paper', 'Paper')
+('has_the_last_name', 'hasLastName')
+('Review', 'Review')
+('Conference_volume', 'Conference')
+('Topic', 'Topic')
+('Regular_author', 'Author')
+
+|||
+Question: {}
+Answer:

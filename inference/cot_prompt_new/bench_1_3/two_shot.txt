@@ -1,0 +1,20 @@
+let's think step by step and put your final answer within \\boxed{}.
+Here are some examples.
+
+Question: In the ontology of Movie, which of the following is a valid range for the data property 'familyName'?
+A. Actor
+B. None
+C. Director
+D. Spatial Thing
+Answer: Data properties require literal types; ‘familyName’ stores a person’s last name so its range is a string datatype (xsd:string) defined via rdfs:range, not an object class. Options A, C, and D are classes, leaving None to indicate a literal range. This aligns with OWL-DL design. So the answer is B.
+
+Question: In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has extendable maturity date'?
+A. common share
+B. preferred share
+C. dividend
+D. preferred dividend
+Answer: The data property ‘has extendable maturity date’ applies only to financial instruments capable of deferrable redemption schedules. Common shares have no maturity, and dividends are payment events, not instruments. Preferred shares often include extendable maturity features. So the answer is B.
+
+|||
+Question: {}
+Answer:

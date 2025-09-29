@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --partition=gpu_h100
-#SBATCH --time=03:00:00
+#SBATCH --time=00:00:00
 #SBATCH --gres=gpu:h100:4
 #SBATCH --mem=720G
 #SBATCH --output=log/onto_qwen_32b_all.log

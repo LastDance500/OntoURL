@@ -1,0 +1,37 @@
+Question: Here is a list of classes and properties in the ontology of Semantic Web for Earth and Environmental Terminology. Please generate the property constraints (domain or range) in triple form.
+Classes:
+- chemical quantity
+- coordinates
+- electromagnetic quantity
+- electromagnetic radiation quantity
+- extensive property
+- fluence
+- intensive property
+- minimum
+- number density
+- physical quantity
+- quantity
+- scientific quantity
+- species
+- thermodynamic quantity
+- unit
+Properties:
+- nonoverlapping
+- kills
+- has minimum
+- has coordinates
+- has upper boundary
+- has average duration
+- has unit
+- impacts
+- causes
+- due to
+Answer: (has coordinates, range, coordinates)
+(has minimum, range, minimum)
+(has unit, domain, quantity)
+(has unit, range, unit)
+(kills, range, species)
+
+|||
+Question: {}
+Answer:

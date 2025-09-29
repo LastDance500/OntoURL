@@ -1,0 +1,20 @@
+let's think step by step and put your final answer within \\boxed{}.
+Here are some examples.
+
+Question: In the ontology of Gene, which of the following classes is the inferred superclass of '4-oxoproline reductase activity'?
+A. regulation of dendritic cell chemotaxis
+B. IgA immunoglobulin complex
+C. oxidoreductase activity, acting on CH-OH group of donors
+D. serine-type endopeptidase activity
+Answer: This term denotes an enzyme catalyzing a redox reaction on a CH–OH group. A and B describe immune processes or complexes, D is a protease function—none are oxidoreductases. Only C (“oxidoreductase activity, acting on CH–OH group of donors”) fits. So the answer is C.
+
+Question: In the ontology of Chemical Entities of Biological Interest, which of the following classes is the inferred superclass of 'Matatabiether'?
+A. MG(0:0/20:3(11Z,14Z,17Z)/0:0)
+B. organic heteromonocyclic compound
+C. 2-(2-hydroxyphenyl)-3-methoxy-5-phenylbenzene-1,4-diol
+D. Salinipostin G
+Answer: Superclasses in ChEBI are broad chemical classes. A and C name specific molecules, D is another specific compound. Option B (“organic heteromonocyclic compound”) is a general class for compounds with a single heterocycle, which includes matatabiether. So the answer is B.
+
+|||
+Question: {}
+Answer:

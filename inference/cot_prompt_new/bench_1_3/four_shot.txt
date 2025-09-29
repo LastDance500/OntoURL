@@ -1,0 +1,34 @@
+let's think step by step and put your final answer within \\boxed{}.
+Here are some examples.
+
+Question: In the ontology of Movie, which of the following is a valid range for the data property 'familyName'?
+A. Actor
+B. None
+C. Director
+D. Spatial Thing
+Answer: Data properties require literal types; ‘familyName’ stores a person’s last name so its range is a string datatype (xsd:string) defined via rdfs:range, not an object class. Options A, C, and D are classes, leaving None to indicate a literal range. This aligns with OWL-DL design. So the answer is B.
+
+Question: In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has extendable maturity date'?
+A. common share
+B. preferred share
+C. dividend
+D. preferred dividend
+Answer: The data property ‘has extendable maturity date’ applies only to financial instruments capable of deferrable redemption schedules. Common shares have no maturity, and dividends are payment events, not instruments. Preferred shares often include extendable maturity features. So the answer is B.
+
+Question: In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Loop Maximum'?
+A. End
+B. signal_intermediate_event
+C. artifact_types
+D. <class 'int'>
+Answer: ‘Loop Maximum’ represents a count of iterations, so its range must be a numeric datatype (integer). As a data property, it can’t use ontology classes like End, signal_intermediate_event, or artifact_types. The integer datatype <class 'int'> correctly matches the expected numeric range. This follows OWL-DL datatype conventions. So the answer is D.
+
+Question: In the ontology of Video Game, which of the following is a valid domain for the data property 'event time'?
+A. menu event
+B. ProductOrService
+C. Character
+D. instantaneous event
+Answer: The data property ‘event time’ records the timestamp of an event, so its domain must be a class of events. Character and ProductOrService aren’t events, and menu event may be a UI action but doesn’t imply a timestamp domain. Instantaneous event denotes occurrences at a specific point in time and fits the property. So the answer is D.
+
+|||
+Question: {}
+Answer:

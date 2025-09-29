@@ -1,3 +1,6 @@
+Construct the ontology’s structure (constraint) and output the triple in the form (subject, predicate, object). Put all triples in <ans> and </ans> and seperate triples by space.
+Here are some examples.
+
 Question: Here is a list of classes and properties in the ontology of Semantic Web for Earth and Environmental Terminology. Please generate the property constraints (domain or range) in triple form.
 Classes:
 - chemical quantity

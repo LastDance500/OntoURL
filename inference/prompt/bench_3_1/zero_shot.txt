@@ -1,5 +1,6 @@
-Given an open-ended question, please generate a comprehensive text.
+Given an open-ended question, please generate a comprehensive text in <ans> and </ans>.
 
+Here are some examples.
 |||
 Question: {}
 Answer:

@@ -1,0 +1,20 @@
+let's think step by step and put your final answer within \\boxed{}.
+Here are some examples.
+
+Question: In the ontology of Software, which of the following classes does 'PerkinElmer' belong to?
+A. xps
+B. obsolete_MAGE tab format
+C. ICS-501 (version 2.3) Image Capture System
+D. organization
+Answer: PerkinElmer is a company providing scientific tools and software. Options A–C name specific software or formats, not corporate entities. So the answer is D.
+
+Question: In the ontology of Video Game, which of the following classes does 'agonistic' belong to?
+A. Genre
+B. FirstPerson
+C. Sportive
+D. Educational
+Answer: “Agonistic” denotes competitive, sport‑like interactions. FirstPerson is a viewpoint, Genre is too broad, Educational is about learning, leaving Sportive as the correct competitive class. So the answer is C.
+
+|||
+Question: {}
+Answer:

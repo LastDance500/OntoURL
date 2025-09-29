@@ -1,0 +1,33 @@
+Question: Here is a list of classes and properties in the ontology of Wine. Please provide all relationships properties in triple format.
+Classes:
+- Bordeaux
+- DessertWine
+- EarlyHarvest
+- Grape
+- LateHarvest
+- PotableLiquid
+- Sauternes
+- SweetRiesling
+- WineColor
+- WineDescriptor
+- WineGrape
+- WineTaste
+- wine
+Object Properties:
+- hasColor
+- hasFlavor
+- hasMaker
+- hasVintageYear
+- hasWineDescriptor
+- locatedIn
+- madeFromGrape
+- producesWine
+Data Properties:
+- yearValue
+Answer: (wine, hasColor, WineColor)
+(wine, hasWineDescriptor, WineDescriptor)
+(wine, madeFromGrape, WineGrape)
+
+|||
+Question: {}
+Answer:

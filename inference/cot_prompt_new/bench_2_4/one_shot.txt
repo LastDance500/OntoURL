@@ -1,0 +1,13 @@
+let's think step by step and put your final answer within \\boxed{}.
+Here are some examples.
+
+Question: In the ontology of Gene, suppose an individual ?x satisfies: ubiquitin ligase complex(?x). Which conclusion is inferred?
+A. oxidoreductase complex(?x)
+B. exodeoxyribonuclease VII complex(?x)
+C. aminodeoxychorismate synthase complex(?x)
+D. transferase complex(?x)
+Answer: Ubiquitin ligase complexes transfer ubiquitin to substrates, a group‑transfer reaction. In GO, any complex catalyzing group transfers is subclassed under “transferase complex.” They are neither oxidoreductases, nucleases, nor synthases. So the answer is D.
+
+|||
+Question: {}
+Answer:

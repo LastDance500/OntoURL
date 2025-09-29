@@ -1,4 +1,4 @@
-Given a true-or-false question, determine the correctness of the expression and output only true or false.
+Given a true-or-false question, determine the correctness of the expression and put the true or false between <ans> and </ans>.
 
 |||
 Question: {}

@@ -53,23 +53,23 @@ ds = load_dataset("XiaoZhang98/OntoURL")
 
 OntoURL defines **15 tasks** covering understanding, reasoning, and learning:
 
-| Category        | ID  | Task Description                 | Format     | Metric     | Size   |
-|----------------|-----|----------------------------------|------------|------------|--------|
-| **Understanding** | U1  | Class definition understanding     | MCQ        | Accuracy   | 9,151  |
-|                 | U2  | Class relation understanding       | MCQ        | Accuracy   | 9,201  |
-|                 | U3  | Property domain understanding      | MCQ        | Accuracy   | 375    |
-|                 | U4  | Instance class understanding       | MCQ        | Accuracy   | 2,475  |
-|                 | U5  | Instance definition understanding  | MCQ        | Accuracy   | 3,814  |
-| **Reasoning**     | R1  | Inferred relation reasoning        | MCQ        | Accuracy   | 8,208  |
-|                 | R2  | Constraint reasoning               | MCQ        | Accuracy   | 6,956  |
-|                 | R3  | Instance class reasoning           | MCQ        | Accuracy   | 3,793  |
-|                 | R4  | SWRL-based logic reasoning         | MCQ        | Accuracy   | 6,517  |
-|                 | R5  | Description logic reasoning        | T/F        | Accuracy   | 2,560  |
-| **Learning**       | L1  | Class definition generation        | Generation | ROUGE-L    | 2,936  |
-|                 | L2  | Class hierarchy construction       | Generation | Triple-F1  | 952    |
-|                 | L3  | Property relation construction     | Generation | Triple-F1  | 256    |
-|                 | L4  | Constraint construction            | Generation | Triple-F1  | 643    |
-|                 | L5  | Ontology alignment                 | Generation | Tuple-F1   | 1,149  |
+| Category        | ID  | Task Description                 | Format     | Metric     | Size  |
+|----------------|-----|----------------------------------|------------|------------|-------|
+| **Understanding** | U1  | Class definition understanding     | MCQ        | Accuracy   | 9,151 |
+|                 | U2  | Class relation understanding       | MCQ        | Accuracy   | 9,201 |
+|                 | U3  | Property domain understanding      | MCQ        | Accuracy   | 375   |
+|                 | U4  | Instance class understanding       | MCQ        | Accuracy   | 2,475 |
+|                 | U5  | Instance definition understanding  | MCQ        | Accuracy   | 3,814 |
+| **Reasoning**     | R1  | Inferred relation reasoning        | MCQ        | Accuracy   | 8,208 |
+|                 | R2  | Constraint reasoning               | MCQ        | Accuracy   | 6,956 |
+|                 | R3  | Instance class reasoning           | MCQ        | Accuracy   | 3,793 |
+|                 | R4  | SWRL-based logic reasoning         | MCQ        | Accuracy   | 6,517 |
+|                 | R5  | Description logic reasoning        | T/F        | Accuracy   | 882   |
+| **Learning**       | L1  | Class definition generation        | Generation | ROUGE-L    | 2,936 |
+|                 | L2  | Class hierarchy construction       | Generation | Triple-F1  | 952   |
+|                 | L3  | Property relation construction     | Generation | Triple-F1  | 256   |
+|                 | L4  | Constraint construction            | Generation | Triple-F1  | 643   |
+|                 | L5  | Ontology alignment                 | Generation | Tuple-F1   | 1,149 |
 
 > *MCQ = Multiple-Choice Question, T/F = True/False Question*
 

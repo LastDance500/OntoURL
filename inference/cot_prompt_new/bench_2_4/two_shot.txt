@@ -1,0 +1,20 @@
+let's think step by step and put your final answer within \\boxed{}.
+Here are some examples.
+
+Question: In the ontology of Gene, suppose an individual ?x satisfies: ubiquitin ligase complex(?x). Which conclusion is inferred?
+A. oxidoreductase complex(?x)
+B. exodeoxyribonuclease VII complex(?x)
+C. aminodeoxychorismate synthase complex(?x)
+D. transferase complex(?x)
+Answer: Ubiquitin ligase complexes transfer ubiquitin to substrates, a group‑transfer reaction. In GO, any complex catalyzing group transfers is subclassed under “transferase complex.” They are neither oxidoreductases, nucleases, nor synthases. So the answer is D.
+
+Question: In the ontology of Financial Industry Business, suppose an individual ?x satisfies: credit card product(?x). Which conclusion is inferred?
+A. consumer credit card agreement(?x, ?y)
+B. card verification value(?x, ?y)
+C. has credit card network(?x, ?y)
+D. has credit card network(?y, ?x)
+Answer: A credit card product is defined by its association with a payment network. The ontology uses has_credit_card_network(?x, ?y) for all credit card products. Agreements and CVVs aren’t universally inferred; reversing subject/object is invalid. So the answer is C.
+
+|||
+Question: {}
+Answer:

@@ -1,3 +1,6 @@
+Given a multiple‐choice question with options, select the one correct class and put the letter between <ans> and </ans>.
+Here are some examples.
+
 Question: In the ontology of Movie, which of the following is a valid range for the data property 'familyName'?
 A. Actor
 B. None
