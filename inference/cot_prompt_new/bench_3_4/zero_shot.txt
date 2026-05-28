@@ -1,5 +1,7 @@
-Construct the ontology’s structure (constraint) and generate only the triples—comma-separated—in the form (subject, domain/range, object).
+Reason step by step about the ontology construction task. Do not write tuple notation in the reasoning. If the question itself says to answer only, apply that restriction only to the `Final answer` section. Then put only the final triples after `Final answer:`.
+Final answer triple contract: output only parseable property triples, one per line, exactly as (subject, predicate, object). Do not output bullets, numbering, explanations, subClassOf triples, domain/range constraints, or functional/cardinality annotations.
+Construct only object- and data-property relationships between the given classes. Do not output subClassOf triples. In the final answer, output triples in the form (subject, predicate, object).
 
 |||
 Question: {}
-Answer:
+Reasoning:

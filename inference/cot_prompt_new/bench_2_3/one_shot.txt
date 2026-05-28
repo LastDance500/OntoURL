@@ -1,13 +1,15 @@
-let's think step by step and put your final answer within \\boxed{}.
+Reason step by step about the ontology question and the candidate options. If the question itself says to answer only, apply that restriction only to the `Final answer` line. Then put the final answer on the last line as `Final answer: X`, where X is exactly one of A, B, C, or D.
+Assume exactly one candidate option is correct. Do not answer that no option is correct; if uncertain, choose the best available option. The final answer must be a single allowed label.
 Here are some examples.
 
-Question: In the ontology of Movie, which of the following classes does the instance 'Cie Allman' belong to?
-A. Movie
-B. Class
-C. Actor
-D. Person
-Answer: Cie Allman is a human individual; Movie is a film, Class is a meta‑category, Actor may be too specific without evidence, whereas Person covers any human. So the answer is D.
+Question: In the SWEET ontology, after reasoning over the ontology, which class is one valid inferred class for the instance 'young'?
+A. time
+B. row
+C. space
+D. column
+Reasoning: The ontology question asks for the candidate that matches the stated class, relation, property, or instance fact. Comparing the options identifies the correct letter.
+Final answer: A
 
 |||
 Question: {}
-Answer:
+Reasoning:

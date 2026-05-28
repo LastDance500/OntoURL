@@ -1,13 +1,15 @@
-let's think step by step and put your final answer within \\boxed{}.
+Reason step by step about the ontology question and the candidate options. If the question itself says to answer only, apply that restriction only to the `Final answer` line. Then put the final answer on the last line as `Final answer: X`, where X is exactly one of A, B, C, or D.
+Assume exactly one candidate option is correct. Do not answer that no option is correct; if uncertain, choose the best available option. The final answer must be a single allowed label.
 Here are some examples.
 
-Question: In the ontology of Human Phenotype, which of the following classes is the superclass of 'regulation of leukocyte differentiation'?
-A. regulation of hemopoiesis
-B. Parathyroid dysgenesis
-C. Olfactory lobe agenesis
-D. positive regulation of G protein-coupled receptor signaling pathway
-Answer: Leukocyte differentiation falls under the broader process of blood cell formation (hemopoiesis). “Regulation of hemopoiesis” encompasses all modulatory processes on blood lineage development, including white blood cell differentiation. The other options describe unrelated disorders or signaling pathways. So the answer is A.
+Question: In the Vide OWL ontology, which of the following classes is one valid superclass of 'RPG'?
+A. Genre
+B. Art
+C. Combat
+D. Choice
+Reasoning: The ontology question asks for the candidate that matches the stated class, relation, property, or instance fact. Comparing the options identifies the correct letter.
+Final answer: A
 
 |||
 Question: {}
-Answer:
+Reasoning:

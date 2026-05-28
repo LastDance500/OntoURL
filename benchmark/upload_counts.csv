@@ -1,0 +1,16 @@
+split,task_label,count
+1_1_class_definition_understanding,1_1,3000
+1_2_class_relation_understanding,1_2,3000
+1_3_property_semantics_understanding,1_3,2862
+1_4_instance_class_understanding,1_4,3116
+1_5_instance_description_understanding,1_5,1776
+2_1_inferred_class_relation_reasoning,2_1,2968
+2_2_property_constraint_reasoning,2_2,2814
+2_3_inferred_instance_class_reasoning,2_3,2415
+2_4_swrl_based_rule_reasoning,2_4,3000
+2_5_description_logic_reasoning,2_5,2535
+3_1_ontology_term_extraction_from_text,3_1,1799
+3_2_class_definition_generation,3_2,3000
+3_3_class_hierarchy_construction,3_3,2997
+3_4_property_relation_construction,3_4,264
+3_5_constraint_construction,3_5,613

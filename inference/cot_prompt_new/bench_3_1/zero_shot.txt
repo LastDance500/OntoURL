@@ -1,5 +1,11 @@
-let's think step by step and put your final answer within \\boxed{}.
+Reason step by step about which terms in the text are ontology classes and which are properties. If the question itself says to answer only, apply that restriction only to the `Final answer` section. Then put the final answer after `Final answer:` using exactly two lines: Classes and Properties.
+Given ontology-derived domain text, extract ontology-relevant terms that should be modeled as classes or properties. Return exactly two lines. Do not output anything else.
+
+Required format:
+Classes: term1; term2; ...
+Properties: term1; term2; ...
+Use Properties: None when no property term is present.
 
 |||
 Question: {}
-Answer:
+Reasoning:

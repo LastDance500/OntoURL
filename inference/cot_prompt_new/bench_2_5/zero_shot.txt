@@ -1,5 +1,7 @@
-let's think step by step and put your final answer within \\boxed{}.
+Reason step by step about the Description Logic expression and whether the local ontology module makes it satisfiable. If the question itself says to answer only, apply that restriction only to the `Final answer` line. Then put the final answer on the last line as `Final answer: true` or `Final answer: false`.
+Assume the true-or-false question has a determinate gold answer. Do not answer that the answer is unavailable; the final answer must be exactly true or false.
+Given a true-or-false Description Logic question, determine whether the expression is satisfiable.
 
 |||
 Question: {}
-Answer:
+Reasoning:

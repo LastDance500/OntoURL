@@ -1,6 +1,10 @@
-Given an open-ended question, please generate a comprehensive text in <ans> and </ans>.
+Given ontology-derived domain text, extract ontology-relevant terms that should be modeled as classes or properties. Return exactly two lines. Do not output anything else.
 
-Here are some examples.
+Required format:
+Classes: term1; term2; ...
+Properties: term1; term2; ...
+Use Properties: None when no property term is present.
+
 |||
 Question: {}
 Answer:

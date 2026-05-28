@@ -1,8 +1,25 @@
-Given an open-ended question, please generate a comprehensive text in <ans> and </ans>.
+Given ontology-derived domain text, extract ontology-relevant terms that should be modeled as classes or properties. Return exactly two lines. Do not output anything else.
+
+Required format:
+Classes: term1; term2; ...
+Properties: term1; term2; ...
+Use Properties: None when no property term is present.
 Here are some examples.
 
-Question: Please provide the definition of the concept 'epithelium of terminal part of digestive tract', as an element in Cell Ontology.
-Answer: Epithelium lining the distalmost portion of the digestive tract.
+Question: ## Ontology Term Extraction Task
+Given a short domain text, identify the ontology-relevant terms that should be modeled as classes and the terms that should be modeled as properties.
+
+### Text
+Educative is a type of Gameplay. Game is connected to Gameplay through the relation has Gameplay. The relation term 'gameplay Of' is included as a property in this ontology fragment. The example is intended to support consistent annotation and reuse.
+
+### Question
+Which terms in the text should be extracted as ontology classes, and which terms should be extracted as ontology properties?
+
+### Answer Format
+Classes: term1; term2; ...
+Properties: term1; term2; ...
+Answer: Classes: Educative; Gameplay; Game
+Properties: has Gameplay; gameplay Of
 
 |||
 Question: {}

@@ -1,9 +1,22 @@
-let's think step by step and put your final answer within \\boxed{}.
+Reason step by step about which terms in the text are ontology classes and which are properties. If the question itself says to answer only, apply that restriction only to the `Final answer` section. Then put the final answer after `Final answer:` using exactly two lines: Classes and Properties.
 Here are some examples.
 
-Question: Please provide the definition of the concept 'epithelium of terminal part of digestive tract', as an element in Cell Ontology.
-Answer: Epithelium lining the distalmost portion of the digestive tract.
+Question: ## Ontology Term Extraction Task
+Given a short domain text, identify the ontology-relevant terms that should be modeled as classes and the terms that should be modeled as properties.
+
+### Text
+Educative is a type of Gameplay. Game is connected to Gameplay through the relation has Gameplay. The relation term 'gameplay Of' is included as a property in this ontology fragment. The example is intended to support consistent annotation and reuse.
+
+### Question
+Which terms in the text should be extracted as ontology classes, and which terms should be extracted as ontology properties?
+
+### Answer Format
+Classes: term1; term2; ...
+Properties: term1; term2; ...
+Reasoning: The class terms name ontology concepts in the text, while the property terms name relations between those concepts.
+Final answer: Classes: Educative; Gameplay; Game
+Properties: has Gameplay; gameplay Of
 
 |||
 Question: {}
-Answer:
+Reasoning:

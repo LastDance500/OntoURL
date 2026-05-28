@@ -1,19 +1,20 @@
-Given a multiple‐choice question with options, select the one correct inferred class and put the letter between <ans> and </ans>.
+Do not explain or analyze the options. Your entire response must be exactly one of A, B, C, or D.
+Given a multiple-choice question with options, select the one correct inferred class and output only the letter.
 Here are some examples.
 
-Question: In the ontology of Movie, which of the following classes does the instance 'Cie Allman' belong to?
-A. Movie
-B. Class
-C. Actor
-D. Person
-Answer: D
-
-Question: In the ontology of Gender, Sex, and Sexual Orientation, which of the following classes does the instance 'Pajubá' belong to?
-A. multi-organism behavior
-B. X0 sex-determination system
-C. ze/mer/zemself pronouns
-D. leather subculture
+Question: In the SWEET ontology, after reasoning over the ontology, which class is one valid inferred class for the instance 'young'?
+A. time
+B. row
+C. space
+D. column
 Answer: A
+
+Question: In the Vide OWL ontology, after reasoning over the ontology, which class is one valid inferred class for the instance 'with matches'?
+A. Multiplayer
+B. Combat
+C. Art
+D. Lore
+Answer: B
 
 |||
 Question: {}

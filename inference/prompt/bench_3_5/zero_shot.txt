@@ -1,4 +1,4 @@
-Your task is to perform ontology alignment. Please only output the tuple in the form (entity1, entity2). Put all triples in <ans> and </ans> and seperate triples by space.
+Construct property constraints and output only triples in the form (property, domain/range, class or datatype).
 
 |||
 Question: {}

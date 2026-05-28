@@ -1,0 +1,293 @@
+{
+  "notes": [
+    "Recommended 2026 text/instruction model candidates for OntoURL experiments.",
+    "GPU counts assume BF16 or native precision on 80GB H100s with max_model_len around 8192 and vLLM tensor parallelism.",
+    "For Qwen3/Qwen3.5 reasoning-capable models, run with --disable_thinking for standard benchmark inference. Chain-of-thought prompt variants are retained under inference/cot_prompt_new for compatibility."
+  ],
+  "primary": [
+    {
+      "name": "Qwen3-8B",
+      "hf_id": "Qwen/Qwen3-8B",
+      "family": "Qwen3",
+      "size_bucket": "<10B",
+      "recommended_h100": 1,
+      "max_model_len": 8192,
+      "replaces": "Qwen/Qwen2.5-7B-Instruct",
+      "thinking_control": "enable_thinking=False"
+    },
+    {
+      "name": "Qwen3-32B",
+      "hf_id": "Qwen/Qwen3-32B",
+      "family": "Qwen3",
+      "size_bucket": "30B",
+      "recommended_h100": 2,
+      "max_model_len": 8192,
+      "replaces": "Qwen/Qwen2.5-32B-Instruct",
+      "thinking_control": "enable_thinking=False"
+    },
+    {
+      "name": "Qwen3.5-9B",
+      "hf_id": "Qwen/Qwen3.5-9B",
+      "family": "Qwen3.5",
+      "size_bucket": "<10B",
+      "recommended_h100": 1,
+      "max_model_len": 8192,
+      "replaces": "Qwen/Qwen2.5-7B-Instruct",
+      "thinking_control": "enable_thinking=False",
+      "note": "Use only if the server vLLM/transformers stack supports Qwen3.5."
+    },
+    {
+      "name": "Qwen3.5-27B",
+      "hf_id": "Qwen/Qwen3.5-27B",
+      "family": "Qwen3.5",
+      "size_bucket": "20-35B",
+      "recommended_h100": 2,
+      "max_model_len": 8192,
+      "thinking_control": "enable_thinking=False",
+      "note": "Very long context model; text-only benchmark should still cap context to keep throughput stable."
+    },
+    {
+      "name": "Gemma-4-E4B-it",
+      "hf_id": "google/gemma-4-E4B-it",
+      "family": "Gemma 4",
+      "size_bucket": "<10B",
+      "recommended_h100": 1,
+      "max_model_len": 8192,
+      "replaces": "google/gemma-3-4b-it"
+    },
+    {
+      "name": "Gemma-4-26B-A4B-it",
+      "hf_id": "google/gemma-4-26B-A4B-it",
+      "family": "Gemma 4",
+      "size_bucket": "20-35B MoE",
+      "recommended_h100": 2,
+      "max_model_len": 8192,
+      "replaces": "google/gemma-3-12b-it"
+    },
+    {
+      "name": "Phi-4",
+      "hf_id": "microsoft/phi-4",
+      "family": "Phi 4",
+      "size_bucket": "10-20B",
+      "recommended_h100": 1,
+      "max_model_len": 8192,
+      "replaces": "microsoft/Phi-3-medium-4k-instruct"
+    },
+    {
+      "name": "Mistral-Nemo-Instruct-2407",
+      "hf_id": "mistralai/Mistral-Nemo-Instruct-2407",
+      "family": "Mistral",
+      "size_bucket": "10-20B",
+      "recommended_h100": 1,
+      "max_model_len": 8192,
+      "replaces": "mistralai/Ministral-8B-Instruct-2410",
+      "note": "Use as the budget-compatible Mistral-family replacement after Ministral-8B produced severe parse failures."
+    },
+    {
+      "name": "Mistral-Small-3.2-24B-Instruct-2506",
+      "hf_id": "mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+      "family": "Mistral",
+      "size_bucket": "20-35B",
+      "recommended_h100": 2,
+      "max_model_len": 8192,
+      "vllm_tokenizer_mode": "mistral",
+      "vllm_config_format": "mistral",
+      "vllm_load_format": "mistral",
+      "replaces": "mistralai/Mistral-Small-Instruct-2409",
+      "note": "Preferred stronger Mistral-family replacement if 2 H100 is acceptable; official model card reports improved instruction following and fewer infinite generations than Small 3.1."
+    },
+    {
+      "name": "Llama-3.3-70B-Instruct",
+      "hf_id": "meta-llama/Llama-3.3-70B-Instruct",
+      "family": "Llama 3.3",
+      "size_bucket": "70B",
+      "recommended_h100": 4,
+      "max_model_len": 8192,
+      "note": "Stable text-only 70B baseline."
+    }
+  ],
+  "optional_large_or_new": [
+    {
+      "name": "Llama-4-Scout-17B-16E-Instruct",
+      "hf_id": "meta-llama/Llama-4-Scout-17B-16E-Instruct",
+      "family": "Llama 4 MoE",
+      "size_bucket": "large MoE",
+      "recommended_h100": 4,
+      "max_model_len": 8192,
+      "note": "Newer than Llama 3.3 but heavier; use if vLLM stack supports Llama 4 well."
+    },
+    {
+      "name": "Qwen3.5-35B-A3B",
+      "hf_id": "Qwen/Qwen3.5-35B-A3B",
+      "family": "Qwen3.5 MoE",
+      "size_bucket": "35B MoE",
+      "recommended_h100": 2,
+      "max_model_len": 8192,
+      "thinking_control": "enable_thinking=False",
+      "note": "Only 3B active but still stores full MoE weights; test one split first."
+    },
+    {
+      "name": "GLM-4.5-Air",
+      "hf_id": "zai-org/GLM-4.5-Air",
+      "family": "GLM 4.5",
+      "size_bucket": "large MoE",
+      "recommended_h100": 4,
+      "max_model_len": 8192,
+      "note": "Potential replacement for older GLM-32B; verify vLLM compatibility before full run."
+    }
+  ],
+  "legacy_baselines": [
+    {
+      "name": "Llama-3.1-8B-Instruct",
+      "hf_id": "meta-llama/Llama-3.1-8B-Instruct",
+      "recommended_h100": 1
+    },
+    {
+      "name": "Llama-3.1-70B-Instruct",
+      "hf_id": "meta-llama/Llama-3.1-70B-Instruct",
+      "recommended_h100": 4
+    },
+    {
+      "name": "Meta-Llama-3-8B-Instruct",
+      "hf_id": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "recommended_h100": 1
+    },
+    {
+      "name": "Mistral-Nemo-Instruct-2407",
+      "hf_id": "mistralai/Mistral-Nemo-Instruct-2407",
+      "recommended_h100": 1
+    },
+    {
+      "name": "Mistral-Small-3.2-24B-Instruct-2506",
+      "hf_id": "mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+      "recommended_h100": 2
+    },
+    {
+      "name": "InternLM3-8B-Instruct",
+      "hf_id": "internlm/internlm3-8b-instruct",
+      "recommended_h100": 1
+    },
+    {
+      "name": "GLM-4-32B-0414",
+      "hf_id": "zai-org/GLM-4-32B-0414",
+      "recommended_h100": 2
+    },
+    {
+      "name": "Aya-Expanse-8B",
+      "hf_id": "CohereLabs/aya-expanse-8b",
+      "recommended_h100": 1
+    },
+    {
+      "name": "Aya-Expanse-32B",
+      "hf_id": "CohereLabs/aya-expanse-32b",
+      "recommended_h100": 2
+    },
+    {
+      "name": "Qwen2.5-3B-Instruct",
+      "hf_id": "Qwen/Qwen2.5-3B-Instruct",
+      "recommended_h100": 1
+    },
+    {
+      "name": "Qwen2.5-7B-Instruct",
+      "hf_id": "Qwen/Qwen2.5-7B-Instruct",
+      "recommended_h100": 1
+    },
+    {
+      "name": "Qwen2.5-14B-Instruct",
+      "hf_id": "Qwen/Qwen2.5-14B-Instruct",
+      "recommended_h100": 1
+    },
+    {
+      "name": "Qwen2.5-32B-Instruct",
+      "hf_id": "Qwen/Qwen2.5-32B-Instruct",
+      "recommended_h100": 2
+    },
+    {
+      "name": "Qwen2.5-72B-Instruct",
+      "hf_id": "Qwen/Qwen2.5-72B-Instruct",
+      "recommended_h100": 4
+    },
+    {
+      "name": "QwQ-32B",
+      "hf_id": "Qwen/QwQ-32B",
+      "recommended_h100": 2
+    },
+    {
+      "name": "Gemma-3-4B-it",
+      "hf_id": "google/gemma-3-4b-it",
+      "recommended_h100": 1
+    },
+    {
+      "name": "Gemma-3-12B-it",
+      "hf_id": "google/gemma-3-12b-it",
+      "recommended_h100": 1
+    },
+    {
+      "name": "Phi-3-small-8k-instruct",
+      "hf_id": "microsoft/Phi-3-small-8k-instruct",
+      "recommended_h100": 1
+    },
+    {
+      "name": "Phi-4-mini-instruct",
+      "hf_id": "microsoft/Phi-4-mini-instruct",
+      "recommended_h100": 1
+    },
+    {
+      "name": "BioMistral-7B-DARE",
+      "hf_id": "BioMistral/BioMistral-7B-DARE",
+      "recommended_h100": 1
+    },
+    {
+      "name": "AdaptLLM-medicine-chat",
+      "hf_id": "AdaptLLM/medicine-chat",
+      "recommended_h100": 1
+    },
+    {
+      "name": "AdaptLLM-finance-chat",
+      "hf_id": "AdaptLLM/finance-chat",
+      "recommended_h100": 1
+    },
+    {
+      "name": "Saul-7B-Instruct-v1",
+      "hf_id": "Equall/Saul-7B-Instruct-v1",
+      "recommended_h100": 1
+    },
+    {
+      "name": "OLLM-Wikipedia",
+      "hf_id": "andylolu24/ollm-wikipedia",
+      "recommended_h100": 1
+    },
+    {
+      "name": "OLLM-Arxiv",
+      "hf_id": "andylolu24/ollm-arxiv",
+      "recommended_h100": 1
+    }
+  ],
+  "legacy_not_submitted_by_default": [
+    {
+      "name": "ERNIE 2.0 large EN",
+      "hf_id": "nghuyong/ernie-2.0-large-en",
+      "reason": "not a standard chat/instruct causal LM for this vLLM pipeline"
+    },
+    {
+      "name": "RAG sequence NQ",
+      "hf_id": "facebook/rag-sequence-nq",
+      "reason": "retrieval seq2seq model; incompatible with the current chat-template vLLM path without custom handling"
+    },
+    {
+      "name": "ultra_50g",
+      "hf_id": "mgalkin/ultra_50g",
+      "reason": "verify model architecture and license before using"
+    },
+    {
+      "name": "Ministral-8B-Instruct-2410",
+      "hf_id": "mistralai/Ministral-8B-Instruct-2410",
+      "reason": "removed from the default suite after severe parse/format instability on OntoURL and Propp"
+    },
+    {
+      "name": "Mistral-Small-Instruct-2409",
+      "hf_id": "mistralai/Mistral-Small-Instruct-2409",
+      "reason": "superseded by Mistral-Small-3.2-24B-Instruct-2506"
+    }
+  ]
+}

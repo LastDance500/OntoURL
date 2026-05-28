@@ -1,33 +1,34 @@
-Given a multiple‐choice question with options, select the one correct inferred class and put the letter between <ans> and </ans>.
+Do not explain or analyze the options. Your entire response must be exactly one of A, B, C, or D.
+Given a multiple-choice question with options, select the one correct inferred class and output only the letter.
 Here are some examples.
 
-Question: In the ontology of Movie, which of the following classes does the instance 'Cie Allman' belong to?
-A. Movie
-B. Class
-C. Actor
-D. Person
-Answer: D
-
-Question: In the ontology of Gender, Sex, and Sexual Orientation, which of the following classes does the instance 'Pajubá' belong to?
-A. multi-organism behavior
-B. X0 sex-determination system
-C. ze/mer/zemself pronouns
-D. leather subculture
+Question: In the SWEET ontology, after reasoning over the ontology, which class is one valid inferred class for the instance 'young'?
+A. time
+B. row
+C. space
+D. column
 Answer: A
 
-Question: In the ontology of Environment, which of the following classes does the instance 'Northwestern Thorn Scrub Forests' belong to?
-A. sandy loam
-B. astronomical body part
-C. obsolete cereal food product
-D. composted animal manure
+Question: In the Vide OWL ontology, after reasoning over the ontology, which class is one valid inferred class for the instance 'with matches'?
+A. Multiplayer
+B. Combat
+C. Art
+D. Lore
 Answer: B
 
-Question: In the ontology of Financial Industry Business, which of the following classes does the instance 'Federal Reserve Bank of New York US-NY' belong to?
-A. government body
-B. ABA IIN registry entry
-C. Federal Reserve district
-D. non-depository trust company - non-member institution
-Answer: A
+Question: In the comic book ontology, after reasoning over the ontology, which class is one valid inferred class for the instance 'SewnBound'?
+A. State
+B. Quality
+C. Material
+D. Condition
+Answer: C
+
+Question: In the Biology ontology, after reasoning over the ontology, which class is one valid inferred class for the instance 'Robert Eads Day'?
+A. period of life
+B. month
+C. year
+D. day
+Answer: D
 
 |||
 Question: {}

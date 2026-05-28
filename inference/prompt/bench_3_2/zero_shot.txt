@@ -1,4 +1,4 @@
-Construct the ontology’s structure and output the triple in the form (subject, predicate, object). Put all triples in <ans> and </ans> and seperate triples by space.
+Given an ontology class, generate a concise natural-language definition for that class.
 
 |||
 Question: {}

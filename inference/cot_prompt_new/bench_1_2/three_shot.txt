@@ -1,27 +1,31 @@
-let's think step by step and put your final answer within \\boxed{}.
+Reason step by step about the ontology question and the candidate options. If the question itself says to answer only, apply that restriction only to the `Final answer` line. Then put the final answer on the last line as `Final answer: X`, where X is exactly one of A, B, C, or D.
+Assume exactly one candidate option is correct. Do not answer that no option is correct; if uncertain, choose the best available option. The final answer must be a single allowed label.
 Here are some examples.
 
-Question: In the ontology of Human Phenotype, which of the following classes is the superclass of 'regulation of leukocyte differentiation'?
-A. regulation of hemopoiesis
-B. Parathyroid dysgenesis
-C. Olfactory lobe agenesis
-D. positive regulation of G protein-coupled receptor signaling pathway
-Answer: Leukocyte differentiation falls under the broader process of blood cell formation (hemopoiesis). “Regulation of hemopoiesis” encompasses all modulatory processes on blood lineage development, including white blood cell differentiation. The other options describe unrelated disorders or signaling pathways. So the answer is A.
+Question: In the Vide OWL ontology, which of the following classes is one valid superclass of 'RPG'?
+A. Genre
+B. Art
+C. Combat
+D. Choice
+Reasoning: The ontology question asks for the candidate that matches the stated class, relation, property, or instance fact. Comparing the options identifies the correct letter.
+Final answer: A
 
-Question: In the ontology of Video Game Ontology, which of the following classes is the superclass of 'Metroidvania'?
-A. Explorative
-B. Textual
-C. Adventure
-D. Mechanic
-Answer: Metroidvania games are defined by exploratory adventure mechanics within an interconnected world. While “explorative” and “mechanic” hint at features, only “Adventure” denotes the formal genre category under which Metroidvania is subclassed. Textual games are clearly unrelated. So the answer is C.
+Question: In the SWEET ontology, which of the following classes is equivalent to 'l1'?
+A. acceptable level
+B. level1
+C. D
+D. acid haze
+Reasoning: The ontology question asks for the candidate that matches the stated class, relation, property, or instance fact. Comparing the options identifies the correct letter.
+Final answer: B
 
-Question: In the ontology of Gender, Sex, and Sexual Orientation, which of the following classes is the superclass of 'lesbian rights activist'?
-A. African culture
-B. LGBTQ rights activist
-C. entity
-D. gender behavior
-Answer: A lesbian rights activist advocates specifically within the LGBTQ community. “LGBTQ rights activist” is the direct broader class covering all activists for sexual minority rights. “Entity” is too generic; the others are unrelated cultural or behavioral terms. So the answer is B.
+Question: In the comic book ontology, which of the following classes is equivalent to 'Issue'?
+A. Artwork
+B. Agent
+C. ComicIssue
+D. Attribute
+Reasoning: The ontology question asks for the candidate that matches the stated class, relation, property, or instance fact. Comparing the options identifies the correct letter.
+Final answer: C
 
 |||
 Question: {}
-Answer:
+Reasoning:

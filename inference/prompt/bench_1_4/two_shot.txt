@@ -1,19 +1,20 @@
-Given a multiple‐choice question with options, select the one correct class and put the letter between <ans> and </ans>.
+Do not explain or analyze the options. Your entire response must be exactly one of A, B, C, or D.
+Given a multiple-choice question with options, select the one correct class and output only the letter.
 Here are some examples.
 
-Question: In the ontology of Software, which of the following classes does 'PerkinElmer' belong to?
-A. xps
-B. obsolete_MAGE tab format
-C. ICS-501 (version 2.3) Image Capture System
-D. organization
-Answer: D
+Question: In the comic book ontology, which of the following classes does '7.0' belong to as one valid explicit type?
+A. Grade
+B. Comic Age
+C. Format
+D. Role
+Answer: A
 
-Question: In the ontology of Video Game, which of the following classes does 'agonistic' belong to?
-A. Genre
-B. FirstPerson
-C. Sportive
-D. Educational
-Answer: C
+Question: In the SWEET ontology, which of the following classes does 'water' belong to as one valid explicit type?
+A. ion
+B. inorganic compound
+C. cement
+D. doc
+Answer: B
 
 |||
 Question: {}

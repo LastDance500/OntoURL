@@ -1,4 +1,4 @@
-Construct the ontology’s structure (constraint) and output the triple in the form (subject, predicate, object). Put all triples in <ans> and </ans> and seperate triples by space.
+Construct only object- and data-property relationships between the given classes. Do not output subClassOf triples. Output only triples in the form (subject, predicate, object).
 
 |||
 Question: {}

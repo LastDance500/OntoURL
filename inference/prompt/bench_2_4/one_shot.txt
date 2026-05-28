@@ -1,12 +1,13 @@
-Given a multiple‐choice question with options, select the one correct expression and put the letter between <ans> and </ans>.
+Do not explain or analyze the options. Your entire response must be exactly one of A, B, C, or D.
+Given a multiple-choice rule reasoning question with options, select the one correct inferred conclusion and output only the letter.
 Here are some examples.
 
-Question: In the ontology of Gene, suppose an individual ?x satisfies: ubiquitin ligase complex(?x). Which conclusion is inferred?
-A. oxidoreductase complex(?x)
-B. exodeoxyribonuclease VII complex(?x)
-C. aminodeoxychorismate synthase complex(?x)
-D. transferase complex(?x)
-Answer: D
+Question: In the comic book ontology, suppose an individual ?x satisfies: Panel(?x). Which conclusion is one valid inferred conclusion?
+A. Sequence(?x)
+B. Story(?x)
+C. Publication(?x)
+D. Page(?x)
+Answer: A
 
 |||
 Question: {}

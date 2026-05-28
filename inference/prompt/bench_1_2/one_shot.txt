@@ -1,11 +1,12 @@
-Given a multiple‐choice question with options, select the one correct class and put the letter between <ans> and </ans>.
+Do not explain or analyze the options. Your entire response must be exactly one of A, B, C, or D.
+Given a multiple-choice question with options, select the one correct class and output only the letter.
 Here are some examples.
 
-Question: In the ontology of Human Phenotype, which of the following classes is the superclass of 'regulation of leukocyte differentiation'?
-A. regulation of hemopoiesis
-B. Parathyroid dysgenesis
-C. Olfactory lobe agenesis
-D. positive regulation of G protein-coupled receptor signaling pathway
+Question: In the Vide OWL ontology, which of the following classes is one valid superclass of 'RPG'?
+A. Genre
+B. Art
+C. Combat
+D. Choice
 Answer: A
 
 |||

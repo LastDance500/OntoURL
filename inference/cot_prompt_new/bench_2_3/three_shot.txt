@@ -1,27 +1,31 @@
-let's think step by step and put your final answer within \\boxed{}.
+Reason step by step about the ontology question and the candidate options. If the question itself says to answer only, apply that restriction only to the `Final answer` line. Then put the final answer on the last line as `Final answer: X`, where X is exactly one of A, B, C, or D.
+Assume exactly one candidate option is correct. Do not answer that no option is correct; if uncertain, choose the best available option. The final answer must be a single allowed label.
 Here are some examples.
 
-Question: In the ontology of Movie, which of the following classes does the instance 'Cie Allman' belong to?
-A. Movie
-B. Class
-C. Actor
-D. Person
-Answer: Cie Allman is a human individual; Movie is a film, Class is a meta‑category, Actor may be too specific without evidence, whereas Person covers any human. So the answer is D.
+Question: In the SWEET ontology, after reasoning over the ontology, which class is one valid inferred class for the instance 'young'?
+A. time
+B. row
+C. space
+D. column
+Reasoning: The ontology question asks for the candidate that matches the stated class, relation, property, or instance fact. Comparing the options identifies the correct letter.
+Final answer: A
 
-Question: In the ontology of Gender, Sex, and Sexual Orientation, which of the following classes does the instance 'Pajubá' belong to?
-A. multi-organism behavior
-B. X0 sex-determination system
-C. ze/mer/zemself pronouns
-D. leather subculture
-Answer: Pajubá is a linguistic code used in social interaction among LGBTQ+ communities, fitting as a multi‑organism behavior. The other options (sex system, pronouns, subculture) don’t match. So the answer is A.
+Question: In the Vide OWL ontology, after reasoning over the ontology, which class is one valid inferred class for the instance 'with matches'?
+A. Multiplayer
+B. Combat
+C. Art
+D. Lore
+Reasoning: The ontology question asks for the candidate that matches the stated class, relation, property, or instance fact. Comparing the options identifies the correct letter.
+Final answer: B
 
-Question: In the ontology of Environment, which of the following classes does the instance 'Northwestern Thorn Scrub Forests' belong to?
-A. sandy loam
-B. astronomical body part
-C. obsolete cereal food product
-D. composted animal manure
-Answer: It names a terrestrial ecoregion (forest ecosystem). Sandy loam is a soil type, astronomical body part is celestial, and the rest are unrelated products—yet among the given classes, the chosen match is B. So the answer is B.
+Question: In the comic book ontology, after reasoning over the ontology, which class is one valid inferred class for the instance 'SewnBound'?
+A. State
+B. Quality
+C. Material
+D. Condition
+Reasoning: The ontology question asks for the candidate that matches the stated class, relation, property, or instance fact. Comparing the options identifies the correct letter.
+Final answer: C
 
 |||
 Question: {}
-Answer:
+Reasoning:

@@ -1,33 +1,23 @@
-Question: Here is a list of classes and properties in the ontology of Wine. Please provide all relationships properties in triple format.
+Reason step by step about the ontology construction task. Do not write tuple notation in the reasoning. If the question itself says to answer only, apply that restriction only to the `Final answer` section. Then put only the final triples after `Final answer:`.
+Final answer triple contract: output only parseable triples, one per line, exactly as (subject, subClassOf, object). Do not output bullets, numbering, explanations, slashes as predicate separators, or non-subClassOf predicates.
+Here are some examples.
+
+Question: In the Wine ontology, given the following set of classes, construct the class hierarchy. In the final answer, output triples in the form (subject, predicate, object).
+
 Classes:
 - Bordeaux
-- DessertWine
-- EarlyHarvest
-- Grape
+- DryWhiteWine
+- GermanWine
 - LateHarvest
-- PotableLiquid
+- Merlot
 - Sauternes
-- SweetRiesling
-- WineColor
-- WineDescriptor
-- WineGrape
-- WineTaste
+- TableWine
 - wine
-Object Properties:
-- hasColor
-- hasFlavor
-- hasMaker
-- hasVintageYear
-- hasWineDescriptor
-- locatedIn
-- madeFromGrape
-- producesWine
-Data Properties:
-- yearValue
-Answer: (wine, hasColor, WineColor)
-(wine, hasWineDescriptor, WineDescriptor)
-(wine, madeFromGrape, WineGrape)
+Reasoning: The requested ontology structure is recovered by identifying the relevant subjects, predicates, and objects from the listed terms.
+Final answer: (LateHarvest, subClassOf, wine)
+(Sauternes, subClassOf, Bordeaux)
+(Sauternes, subClassOf, LateHarvest)
 
 |||
 Question: {}
-Answer:
+Reasoning:

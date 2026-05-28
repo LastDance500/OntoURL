@@ -1,33 +1,34 @@
-Given a multiple‐choice question with options, select the one correct expression and put the letter between <ans> and </ans>.
+Do not explain or analyze the options. Your entire response must be exactly one of A, B, C, or D.
+Given a multiple-choice rule reasoning question with options, select the one correct inferred conclusion and output only the letter.
 Here are some examples.
 
-Question: In the ontology of Gene, suppose an individual ?x satisfies: ubiquitin ligase complex(?x). Which conclusion is inferred?
-A. oxidoreductase complex(?x)
-B. exodeoxyribonuclease VII complex(?x)
-C. aminodeoxychorismate synthase complex(?x)
-D. transferase complex(?x)
-Answer: D
-
-Question: In the ontology of Financial Industry Business, suppose an individual ?x satisfies: credit card product(?x). Which conclusion is inferred?
-A. consumer credit card agreement(?x, ?y)
-B. card verification value(?x, ?y)
-C. has credit card network(?x, ?y)
-D. has credit card network(?y, ?x)
-Answer: C
-
-Question: In the ontology of Occupation, suppose an individual ?x satisfies: advertising or promotions manager(?x). Which conclusion is inferred?
-A. has skill(?x, ?y)
-B. environmental engineer (broad)(?x, ?y)
-C. has skill(?y, ?x)
-D. not has skill(?x, ?y)
+Question: In the comic book ontology, suppose an individual ?x satisfies: Panel(?x). Which conclusion is one valid inferred conclusion?
+A. Sequence(?x)
+B. Story(?x)
+C. Publication(?x)
+D. Page(?x)
 Answer: A
 
-Question: In the ontology of Business Process Model and Notation, suppose an individual ?x satisfies: TimeDate Expression(?x). Which conclusion is inferred?
-A. Result(?x)
-B. Legal Expression(?x)
-C. Expression(?x)
-D. Script(?x)
+Question: In the Vide OWL ontology, suppose an individual ?x satisfies: NonRPG(?x). Which conclusion is one valid inferred conclusion?
+A. Shooter(?x)
+B. RPG(?x)
+C. Stealth(?x)
+D. Fighting(?x)
+Answer: B
+
+Question: In the Vide OWL ontology, suppose an individual ?x satisfies: ActionRPG(?x). Which conclusion is one valid inferred conclusion?
+A. Shooter(?x)
+B. Fighting(?x)
+C. RPG(?x)
+D. Stealth(?x)
 Answer: C
+
+Question: In the People ontology, suppose an individual ?x satisfies: cat(?x). Which conclusion is one valid inferred conclusion?
+A. sheep(?x)
+B. giraffe(?x)
+C. person(?x)
+D. animal(?x)
+Answer: D
 
 |||
 Question: {}

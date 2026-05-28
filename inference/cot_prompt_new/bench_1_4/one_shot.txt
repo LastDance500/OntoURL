@@ -1,13 +1,15 @@
-let's think step by step and put your final answer within \\boxed{}.
+Reason step by step about the ontology question and the candidate options. If the question itself says to answer only, apply that restriction only to the `Final answer` line. Then put the final answer on the last line as `Final answer: X`, where X is exactly one of A, B, C, or D.
+Assume exactly one candidate option is correct. Do not answer that no option is correct; if uncertain, choose the best available option. The final answer must be a single allowed label.
 Here are some examples.
 
-Question: In the ontology of Software, which of the following classes does 'PerkinElmer' belong to?
-A. xps
-B. obsolete_MAGE tab format
-C. ICS-501 (version 2.3) Image Capture System
-D. organization
-Answer: PerkinElmer is a company providing scientific tools and software. Options A–C name specific software or formats, not corporate entities. So the answer is D.
+Question: In the comic book ontology, which of the following classes does '7.0' belong to as one valid explicit type?
+A. Grade
+B. Comic Age
+C. Format
+D. Role
+Reasoning: The ontology question asks for the candidate that matches the stated class, relation, property, or instance fact. Comparing the options identifies the correct letter.
+Final answer: A
 
 |||
 Question: {}
-Answer:
+Reasoning:

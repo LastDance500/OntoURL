@@ -1,5 +1,7 @@
-Construct the ontology’s property structure and output only the triples—comma-separated—in the form (subject, property, object).
+Reason step by step about the ontology construction task. Do not write tuple notation in the reasoning. If the question itself says to answer only, apply that restriction only to the `Final answer` section. Then put only the final triples after `Final answer:`.
+Final answer triple contract: output only parseable triples, one per line, exactly as (subject, subClassOf, object). Do not output bullets, numbering, explanations, slashes as predicate separators, or non-subClassOf predicates.
+Construct the ontology class hierarchy; put only the final triples after `Final answer:` in the form (subject, predicate, object). Use subClassOf as the predicate.
 
 |||
 Question: {}
-Answer:
+Reasoning:

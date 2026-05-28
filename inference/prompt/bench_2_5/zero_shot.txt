@@ -1,4 +1,5 @@
-Given a true-or-false question, determine the correctness of the expression and put the true or false between <ans> and </ans>.
+Do not explain or analyze. Your entire response must be exactly one of true or false.
+Given a true-or-false Description Logic question, determine whether the expression is satisfiable and output only lowercase true or false.
 
 |||
 Question: {}

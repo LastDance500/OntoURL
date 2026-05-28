@@ -1,5 +1,7 @@
-let's think step by step and put your final answer within \\boxed{}.
+Reason step by step about the ontology question and the candidate options. If the question itself says to answer only, apply that restriction only to the `Final answer` line. Then put the final answer on the last line as `Final answer: X`, where X is exactly one of A, B, C, or D.
+Assume exactly one candidate option is correct. Do not answer that no option is correct; if uncertain, choose the best available option. The final answer must be a single allowed label.
+Given a multiple-choice rule reasoning question with options, select the one correct inferred conclusion.
 
 |||
 Question: {}
-Answer:
+Reasoning:

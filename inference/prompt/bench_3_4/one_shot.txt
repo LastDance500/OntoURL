@@ -1,39 +1,23 @@
-Construct the ontology’s structure (constraint) and output the triple in the form (subject, predicate, object). Put all triples in <ans> and </ans> and seperate triples by space.
+Construct only object- and data-property relationships between the given classes. Do not output subClassOf triples. Output only triples in the form (subject, predicate, object).
 Here are some examples.
 
-Question: Here is a list of classes and properties in the ontology of Semantic Web for Earth and Environmental Terminology. Please generate the property constraints (domain or range) in triple form.
+Question: In the People ontology, given the following set of classes and properties, construct only object- and data-property relationships. Do not output subClassOf triples. Output only triples in the form (subject, predicate, object).
+
 Classes:
-- chemical quantity
-- coordinates
-- electromagnetic quantity
-- electromagnetic radiation quantity
-- extensive property
-- fluence
-- intensive property
-- minimum
-- number density
-- physical quantity
-- quantity
-- scientific quantity
-- species
-- thermodynamic quantity
-- unit
-Properties:
-- nonoverlapping
-- kills
-- has minimum
-- has coordinates
-- has upper boundary
-- has average duration
-- has unit
-- impacts
-- causes
-- due to
-Answer: (has coordinates, range, coordinates)
-(has minimum, range, minimum)
-(has unit, domain, quantity)
-(has unit, range, unit)
-(kills, range, species)
+- animal
+- cat
+- duck
+- giraffe
+- person
+- sheep
+- tiger
+
+Object Properties:
+- has pet
+
+Data Properties:
+None
+Answer: (person, has pet, animal)
 
 |||
 Question: {}

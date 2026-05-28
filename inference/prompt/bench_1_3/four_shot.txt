@@ -1,32 +1,33 @@
-Given a multiple‐choice question with options, select the one correct class and put the letter between <ans> and </ans>.
+Do not explain or analyze the options. Your entire response must be exactly one of A, B, C, or D.
+Given a multiple-choice question with options, select the one correct class or datatype and output only the letter.
 Here are some examples.
 
-Question: In the ontology of Movie, which of the following is a valid range for the data property 'familyName'?
-A. Actor
-B. None
+Question: In the Movie Ontology, which of the following is a valid domain for the data property 'name'?
+A. Person
+B. Agent
 C. Director
-D. Spatial Thing
+D. Actor
+Answer: A
+
+Question: In the OBOE ontology, which of the following is a valid range for the data property 'hasPower'?
+A. string
+B. integer
+C. boolean
+D. float
 Answer: B
 
-Question: In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has extendable maturity date'?
-A. common share
-B. preferred share
-C. dividend
-D. preferred dividend
-Answer: B
+Question: In the comic book ontology, which of the following is a valid range for the data property 'CCA'?
+A. float
+B. integer
+C. boolean
+D. string
+Answer: C
 
-Question: In the ontology of Business Process Model and Notation, which of the following is a valid range for the data property 'Loop Maximum'?
-A. End
-B. signal_intermediate_event
-C. artifact_types
-D. <class 'int'>
-Answer: D
-
-Question: In the ontology of Video Game, which of the following is a valid domain for the data property 'event time'?
-A. menu event
-B. ProductOrService
-C. Character
-D. instantaneous event
+Question: In the People ontology, which of the following is a valid domain for the object property 'has pet'?
+A. giraffe
+B. sheep
+C. duck
+D. person
 Answer: D
 
 |||

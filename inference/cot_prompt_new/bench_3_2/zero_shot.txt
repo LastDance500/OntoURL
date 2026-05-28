@@ -1,5 +1,6 @@
-Construct the ontology’s structure and output only the triples—comma-separated—in the form (subject, predicate, object).
+Reason step by step about the target class and its ontology meaning. If the question itself says to answer only, apply that restriction only to the `Final answer` section. Then put the generated definition after `Final answer:`.
+Given an ontology class, generate a concise natural-language definition for that class.
 
 |||
 Question: {}
-Answer:
+Reasoning:

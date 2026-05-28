@@ -1,13 +1,15 @@
-let's think step by step and put your final answer within \\boxed{}.
+Reason step by step about the ontology question and the candidate options. If the question itself says to answer only, apply that restriction only to the `Final answer` line. Then put the final answer on the last line as `Final answer: X`, where X is exactly one of A, B, C, or D.
+Assume exactly one candidate option is correct. Do not answer that no option is correct; if uncertain, choose the best available option. The final answer must be a single allowed label.
 Here are some examples.
 
-Question: In the ontology of Plant, which of the following definitions best describes 'calyx'?
-A. A collective phyllome structure that is composed of one or more petals , comprising the inner whorl of non-reproductive floral organs and surrounds the androecium and the gynoecium .
-B. A collective phyllome structure composed all of the carpels in a flower .
-C. A collective phyllome structure that encloses a fruit of the Poaceae (caryopsis) and develops from a dried lemma and palea.
-D. A collective phyllome structure that is composed of one or more sepals , and comprises the outer whorl of non-reproductive floral organs .
-Answer: A calyx is the flower’s outermost non‑reproductive whorl composed of sepals. Option A refers to petals (the corolla), B to carpels (the gynoecium), and C to grass fruit coverings (lemma and palea), none describing sepals. Option D precisely defines a collective phyllome of sepals forming the outer whorl. So the answer is D.
+Question: In the People ontology, which of the following definitions best describes 'bicycle'?
+A. A human propelled vehicle, with two wheels
+B. Cows are naturally vegetarians.
+C. A newspaper. Broadsheets are usually considered to be more "high-brow" than tabloids.
+D. Someone who drives a bus.
+Reasoning: The ontology question asks for the candidate that matches the stated class, relation, property, or instance fact. Comparing the options identifies the correct letter.
+Final answer: A
 
 |||
 Question: {}
-Answer:
+Reasoning:

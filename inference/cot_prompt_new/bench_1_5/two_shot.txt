@@ -1,20 +1,23 @@
-let's think step by step and put your final answer within \\boxed{}.
+Reason step by step about the ontology question and the candidate options. If the question itself says to answer only, apply that restriction only to the `Final answer` line. Then put the final answer on the last line as `Final answer: X`, where X is exactly one of A, B, C, or D.
+Assume exactly one candidate option is correct. Do not answer that no option is correct; if uncertain, choose the best available option. The final answer must be a single allowed label.
 Here are some examples.
 
-Question: In the ontology of Software, which of the following definitions best describes the instance 'pT4b (colon)'?
-A. A pathologic primary tumor stage for colon and rectum according to AJCC 7th edition indicating carcinoma in situ (intraepithelial or invasion of lamina propria).
-B. A pathologic primary tumor stage for colon and rectum according to AJCC 7th edition indicating that the tumor directly invades other organs or structures.
-C. A pathologic primary tumor stage for colon and rectum according to AJCC 7th edition indicating that the tumor invades muscularis propria.
-D. A pathologic primary tumor stage for colon and rectum according to AJCC 7th edition indicating that there is no evidence of primary tumor.
-Answer: AJCC pT categories describe tumor invasion extent: pT4b means direct invasion of other organs. pTis is in situ (A), pT2 invades muscularis propria (C), and pT0 indicates no tumor (D). So the answer is B.
+Question: In the Financial Industry Business Ontology, which of the following definitions best describes the instance 'appraisal fee'?
+A. a charge for an appraisal
+B. the instance of the loan that is owed
+C. a charge for an origination
+D. a charge for lowering your interest rate
+Reasoning: The ontology question asks for the candidate that matches the stated class, relation, property, or instance fact. Comparing the options identifies the correct letter.
+Final answer: A
 
-Question: In the ontology of Financial Industry Business, which of the following definitions best describes the instance 'Uniform Bank Performance Report (UBPR) Repository'?
-A. EDGAR repository, a repository of financial information about securities and their issuers, including but not limited to corporate quarterly and annual filings, collected by the SEC
-B. Federal Financial Institutions Examination Council (FFIEC)'s Uniform Bank Performance Report (UBPR) Repository, a repository of institution characteristics and analytical tool created for bank supervisory, examination, and management purposes
-C. State of South Dakota registry of business information
-D. registry of business entities for businesses that have registered with the State of California Business Programs Division
-Answer: UBPR Repository is maintained by FFIEC for bank supervisory analysis. EDGAR (A) is SEC filings, South Dakota (C) and California registries (D) are state business databases—none pertain to UBPR. So the answer is B.
+Question: In the Biology ontology, which of the following definitions best describes the instance 'zymotic disease'?
+A. A rare synonym for nymphomania.
+B. An obsoleted medical term referring to acute infectious diseases such as typhus and smallpox.
+C. The practice of cunnilingus.
+D. Alternative form of "homosexual".
+Reasoning: The ontology question asks for the candidate that matches the stated class, relation, property, or instance fact. Comparing the options identifies the correct letter.
+Final answer: B
 
 |||
 Question: {}
-Answer:
+Reasoning:

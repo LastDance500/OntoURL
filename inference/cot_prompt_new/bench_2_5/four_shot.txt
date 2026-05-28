@@ -1,22 +1,35 @@
-let's think step by step and put your final answer within \\boxed{}.
+Reason step by step about the Description Logic expression and whether the local ontology module makes it satisfiable. If the question itself says to answer only, apply that restriction only to the `Final answer` line. Then put the final answer on the last line as `Final answer: true` or `Final answer: false`.
+Assume the true-or-false question has a determinate gold answer. Do not answer that the answer is unavailable; the final answer must be exactly true or false.
 Here are some examples.
 
-Question: Given the following Description Logic expression from the Financial Industry Business Ontology, determine whether it is satisfiable (true of false).
-investment_objective ⊓ ¬(investment_objective)
-Answer: In DL, ⊓ demands an individual satisfy both operands. investment_objective ⊓ ¬investment_objective requires x ∈ investment_objective and x ∉ investment_objective, a direct contradiction (C ⊓ ¬C ≡ ⊥). No model can satisfy both, so it is unsatisfiable. So the answer is False.
+Question: In the comic book ontology, given the following Description Logic expression, determine whether it is satisfiable with respect to the local ontology module. Answer only true or false.
 
-Question: Given the following Description Logic expression from the Public Contracts Ontology, determine whether it is satisfiable (true of false).
-=0 Criterion_for_contract_award..(Framework_agreement) ⊓ ∃Criterion_for_contract_award..(Framework_agreement)
-Answer: DL cardinality restrictions impose global role constraints. =0 prohibits any Criterion_for_contract_award link; ∃ requires at least one. No interpretation can fulfill both zero and existential requirements, yielding ⊥. Hence unsatisfiable. So the answer is False.
+Expression:
+=2 inBox.(Box) ⊓ ≥3 inBox.(Box)
+Reasoning: The expression is checked against the local ontology constraints, including the constructors and restrictions in the expression.
+Final answer: false
 
-Question: Given the following Description Logic expression from the Crop Ontology, determine whether it is satisfiable (true of false).
-∃variable_of.(Number_of_palms_observed_for_yield) ⊓ ∀variable_of.(¬(Number_of_palms_observed_for_yield)) ⊓ ∃scale_of.(Generation_structure)
-Answer: ∃variable_of demands at least one link to that trait; ∀variable_of forbids any such link. DL role semantics make these restrictions contradictory on variable_of, producing ⊥. The scale_of clause cannot resolve the clash. So the answer is False.
+Question: In the SWEET ontology, given the following Description Logic expression, determine whether it is satisfiable with respect to the local ontology module. Answer only true or false.
 
-Question: Given the following Description Logic expression from the Video Game Ontology, determine whether it is satisfiable (true of false).
-≥2 involves_character.(Paragon) ⊓ ≤1 involves_character.(Paragon) ⊓ ∃has_feature.(gain_event)
-Answer: Number restrictions on involves_character conflict: ≥2 demands two fillers, ≤1 allows at most one. This role‑level cardinality clash yields ⊥ by DL axioms. The ∃has_feature clause is irrelevant to resolving it. So the answer is False.
+Expression:
+∃atomicMass.(Seq)
+Reasoning: The expression is checked against the local ontology constraints, including the constructors and restrictions in the expression.
+Final answer: true
+
+Question: In the LKIF Core Ontology, given the following Description Logic expression, determine whether it is satisfiable with respect to the local ontology module. Answer only true or false.
+
+Expression:
+∃actor.(Agent) ⊓ =0 actor.(Agent)
+Reasoning: The expression is checked against the local ontology constraints, including the constructors and restrictions in the expression.
+Final answer: false
+
+Question: In the Vide OWL ontology, given the following Description Logic expression, determine whether it is satisfiable with respect to the local ontology module. Answer only true or false.
+
+Expression:
+∃partOf.(Party)
+Reasoning: The expression is checked against the local ontology constraints, including the constructors and restrictions in the expression.
+Final answer: true
 
 |||
 Question: {}
-Answer:
+Reasoning:

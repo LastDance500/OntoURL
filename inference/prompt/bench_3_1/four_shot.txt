@@ -1,17 +1,70 @@
-Given an open-ended question, please generate a comprehensive text in <ans> and </ans>.
+Given ontology-derived domain text, extract ontology-relevant terms that should be modeled as classes or properties. Return exactly two lines. Do not output anything else.
+
+Required format:
+Classes: term1; term2; ...
+Properties: term1; term2; ...
+Use Properties: None when no property term is present.
 Here are some examples.
 
-Question: Please provide the definition of the concept 'epithelium of terminal part of digestive tract', as an element in Cell Ontology.
-Answer: Epithelium lining the distalmost portion of the digestive tract.
+Question: ## Ontology Term Extraction Task
+Given a short domain text, identify the ontology-relevant terms that should be modeled as classes and the terms that should be modeled as properties.
 
-Question: Please provide the definition of the concept 'chemist', as an element in Occupation Ontology.
-Answer: Conduct qualitative and quantitative chemical analyses or experiments in laboratories for quality or process control or to develop new products or knowledge.
+### Text
+Educative is a type of Gameplay. Game is connected to Gameplay through the relation has Gameplay. The relation term 'gameplay Of' is included as a property in this ontology fragment. The example is intended to support consistent annotation and reuse.
 
-Question: Please provide the definition of the concept 'Gutter', as an element in Comic Book Ontology.
-Answer: The space between panels in a comics sequence.
+### Question
+Which terms in the text should be extracted as ontology classes, and which terms should be extracted as ontology properties?
 
-Question: Please provide the definition of the concept 'negative regulation of female receptivity', as an element in Emotion Ontology.
-Answer: Any process that stops, prevents or reduces the receptiveness of a female to male advances.
+### Answer Format
+Classes: term1; term2; ...
+Properties: term1; term2; ...
+Answer: Classes: Educative; Gameplay; Game
+Properties: has Gameplay; gameplay Of
+
+Question: ## Ontology Term Extraction Task
+Given a short domain text, identify the ontology-relevant terms that should be modeled as classes and the terms that should be modeled as properties.
+
+### Text
+An Agent is any entity that can act, and it utters a Communicated Attitude. The Communicated Attitude has an utterer that is an Agent. An Intention is intended by an Agent. This ontology supports consistent annotation and reuse of data.
+
+### Question
+Which terms in the text should be extracted as ontology classes, and which terms should be extracted as ontology properties?
+
+### Answer Format
+Classes: term1; term2; ...
+Properties: term1; term2; ...
+Answer: Classes: Agent; Communicated Attitude; Intention
+Properties: utters; utterer; intended by
+
+Question: ## Ontology Term Extraction Task
+Given a short domain text, identify the ontology-relevant terms that should be modeled as classes and the terms that should be modeled as properties.
+
+### Text
+Agriculture is modeled as a subclass of land use and includes both horticulture and animal production as subclasses. This domain uses the has land use relation to connect Agriculture to land use for data organization and reuse across related records.
+
+### Question
+Which terms in the text should be extracted as ontology classes, and which terms should be extracted as ontology properties?
+
+### Answer Format
+Classes: term1; term2; ...
+Properties: term1; term2; ...
+Answer: Classes: Agriculture; land use; horticulture; animal production
+Properties: has land use
+
+Question: ## Ontology Term Extraction Task
+Given a short domain text, identify the ontology-relevant terms that should be modeled as classes and the terms that should be modeled as properties.
+
+### Text
+Mac OS is an operating system for Macintosh computers from Apple Inc. In the ontology, Mac OS is a subclass of operating system, and OS X is a subclass of Mac OS. The property 'uses platform' connects Mac OS with operating system. This example supports consistent annotation and reuse.
+
+### Question
+Which terms in the text should be extracted as ontology classes, and which terms should be extracted as ontology properties?
+
+### Answer Format
+Classes: term1; term2; ...
+Properties: term1; term2; ...
+Answer: Classes: Mac OS; operating system; OS X
+Properties: uses platform
 
 |||
 Question: {}

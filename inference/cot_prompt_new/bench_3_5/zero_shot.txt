@@ -1,5 +1,7 @@
-Your task is to perform ontology alignment. Please only generate the matched pairs as tuples in the format (entity1, entity2).
+Reason step by step about the ontology construction task. Do not write tuple notation in the reasoning. If the question itself says to answer only, apply that restriction only to the `Final answer` section. Then put only the final triples after `Final answer:`.
+Final answer triple contract: output only parseable constraint triples, one per line, exactly as (property, domain, class_or_datatype) or (property, range, class_or_datatype). Do not output bullets, numbering, explanations, functional/cardinality annotations, or four-field tuples.
+Construct property constraints; put only the final triples after `Final answer:` in the form (property, domain/range, class or datatype).
 
 |||
 Question: {}
-Answer:
+Reasoning:

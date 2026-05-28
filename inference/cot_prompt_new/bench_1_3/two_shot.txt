@@ -1,20 +1,23 @@
-let's think step by step and put your final answer within \\boxed{}.
+Reason step by step about the ontology question and the candidate options. If the question itself says to answer only, apply that restriction only to the `Final answer` line. Then put the final answer on the last line as `Final answer: X`, where X is exactly one of A, B, C, or D.
+Assume exactly one candidate option is correct. Do not answer that no option is correct; if uncertain, choose the best available option. The final answer must be a single allowed label.
 Here are some examples.
 
-Question: In the ontology of Movie, which of the following is a valid range for the data property 'familyName'?
-A. Actor
-B. None
+Question: In the Movie Ontology, which of the following is a valid domain for the data property 'name'?
+A. Person
+B. Agent
 C. Director
-D. Spatial Thing
-Answer: Data properties require literal types; ‘familyName’ stores a person’s last name so its range is a string datatype (xsd:string) defined via rdfs:range, not an object class. Options A, C, and D are classes, leaving None to indicate a literal range. This aligns with OWL-DL design. So the answer is B.
+D. Actor
+Reasoning: The ontology question asks for the candidate that matches the stated class, relation, property, or instance fact. Comparing the options identifies the correct letter.
+Final answer: A
 
-Question: In the ontology of Financial Industry Business, which of the following is a valid domain for the data property 'has extendable maturity date'?
-A. common share
-B. preferred share
-C. dividend
-D. preferred dividend
-Answer: The data property ‘has extendable maturity date’ applies only to financial instruments capable of deferrable redemption schedules. Common shares have no maturity, and dividends are payment events, not instruments. Preferred shares often include extendable maturity features. So the answer is B.
+Question: In the OBOE ontology, which of the following is a valid range for the data property 'hasPower'?
+A. string
+B. integer
+C. boolean
+D. float
+Reasoning: The ontology question asks for the candidate that matches the stated class, relation, property, or instance fact. Comparing the options identifies the correct letter.
+Final answer: B
 
 |||
 Question: {}
-Answer:
+Reasoning:

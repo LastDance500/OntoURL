@@ -1,17 +1,24 @@
-Given a true-or-false question, determine the correctness of the expression and put the true or false between <ans> and </ans>.
+Do not explain or analyze. Your entire response must be exactly one of true or false.
+Given a true-or-false Description Logic question, determine whether the expression is satisfiable and output only lowercase true or false.
 Here are some examples.
 
-Question: Given the following Description Logic expression from the Financial Industry Business Ontology, determine whether it is satisfiable (true of false).
-investment_objective ⊓ ¬(investment_objective)
-Answer: False
+Question: In the comic book ontology, given the following Description Logic expression, determine whether it is satisfiable with respect to the local ontology module. Answer only true or false.
 
-Question: Given the following Description Logic expression from the Public Contracts Ontology, determine whether it is satisfiable (true of false).
-=0 Criterion_for_contract_award..(Framework_agreement) ⊓ ∃Criterion_for_contract_award..(Framework_agreement)
-Answer: False
+Expression:
+=2 inBox.(Box) ⊓ ≥3 inBox.(Box)
+Answer: false
 
-Question: Given the following Description Logic expression from the Crop Ontology, determine whether it is satisfiable (true of false).
-∃variable_of.(Number_of_palms_observed_for_yield) ⊓ ∀variable_of.(¬(Number_of_palms_observed_for_yield)) ⊓ ∃scale_of.(Generation_structure)
-Answer: True
+Question: In the SWEET ontology, given the following Description Logic expression, determine whether it is satisfiable with respect to the local ontology module. Answer only true or false.
+
+Expression:
+∃atomicMass.(Seq)
+Answer: true
+
+Question: In the LKIF Core Ontology, given the following Description Logic expression, determine whether it is satisfiable with respect to the local ontology module. Answer only true or false.
+
+Expression:
+∃actor.(Agent) ⊓ =0 actor.(Agent)
+Answer: false
 
 |||
 Question: {}

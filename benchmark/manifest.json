@@ -1,0 +1,94 @@
+{
+  "benchmark": "OntoURL",
+  "version": "v1.1",
+  "source": "final_benchmark + bench_health",
+  "created_at": "2026-05-22T16:40:23",
+  "total_rows": 36159,
+  "task_counts": {
+    "1_1": 3000,
+    "1_2": 3000,
+    "1_3": 2862,
+    "1_4": 3116,
+    "1_5": 1776,
+    "2_1": 2968,
+    "2_2": 2814,
+    "2_3": 2415,
+    "2_4": 3000,
+    "2_5": 2535,
+    "3_1": 1799,
+    "3_2": 3000,
+    "3_3": 2997,
+    "3_4": 264,
+    "3_5": 613
+  },
+  "domain_counts": {
+    "Arts_Media_Entertainment": 4850,
+    "Business_Finance": 10771,
+    "Earth_Environment": 3554,
+    "Food_Agriculture": 2736,
+    "Health_Medicine": 6354,
+    "Human_Society": 955,
+    "Legal": 2429,
+    "Sciences": 4510
+  },
+  "capability_counts": {
+    "Learning": 8673,
+    "Reasoning": 13732,
+    "Understanding": 13754
+  },
+  "health_supplement": {
+    "rows_available_after_filtering": 8773,
+    "rows_added": 6354,
+    "source_rows": 8971,
+    "source_files": 72,
+    "strict_health_filter": true,
+    "max_per_task": 3000,
+    "dropped_by_reason": {
+      "metadata_or_upper_ontology": 198
+    },
+    "selected_by_task": {
+      "1_1": 624,
+      "1_2": 617,
+      "1_3": 486,
+      "2_1": 1272,
+      "2_2": 560,
+      "2_4": 1031,
+      "2_5": 89,
+      "3_1": 231,
+      "3_2": 614,
+      "3_3": 672,
+      "3_4": 52,
+      "3_5": 106
+    },
+    "available_by_task": {
+      "1_1": 1147,
+      "1_2": 1354,
+      "1_3": 486,
+      "2_1": 1272,
+      "2_2": 560,
+      "2_4": 1482,
+      "2_5": 89,
+      "3_1": 231,
+      "3_2": 1322,
+      "3_3": 672,
+      "3_4": 52,
+      "3_5": 106
+    },
+    "capped_out_by_task": {
+      "1_1": 523,
+      "1_2": 737,
+      "1_3": 0,
+      "2_1": 0,
+      "2_2": 0,
+      "2_4": 451,
+      "2_5": 0,
+      "3_1": 0,
+      "3_2": 708,
+      "3_3": 0,
+      "3_4": 0,
+      "3_5": 0
+    }
+  },
+  "data_revision": "health_supplement_2026_05_22",
+  "release_date": "2026-05-28"
+}

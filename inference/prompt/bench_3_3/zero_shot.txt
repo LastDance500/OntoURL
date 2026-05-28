@@ -1,4 +1,4 @@
-Construct the ontology’s property structure and output the triple in the form (subject, predicate, object). Put all triples in <ans> and </ans> and seperate triples by space.
+Construct the ontology class hierarchy and output only triples in the form (subject, predicate, object). Use subClassOf as the predicate.
 
 |||
 Question: {}

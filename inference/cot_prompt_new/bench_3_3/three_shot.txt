@@ -1,142 +1,56 @@
-Question: Here is a list of classes and properties in the ontology of Wine. Please provide all relationships properties in triple format.
+Reason step by step about the ontology construction task. Do not write tuple notation in the reasoning. If the question itself says to answer only, apply that restriction only to the `Final answer` section. Then put only the final triples after `Final answer:`.
+Final answer triple contract: output only parseable triples, one per line, exactly as (subject, subClassOf, object). Do not output bullets, numbering, explanations, slashes as predicate separators, or non-subClassOf predicates.
+Here are some examples.
+
+Question: In the Wine ontology, given the following set of classes, construct the class hierarchy. In the final answer, output triples in the form (subject, predicate, object).
+
 Classes:
 - Bordeaux
-- DessertWine
-- EarlyHarvest
-- Grape
+- DryWhiteWine
+- GermanWine
 - LateHarvest
-- PotableLiquid
+- Merlot
 - Sauternes
-- SweetRiesling
-- WineColor
-- WineDescriptor
-- WineGrape
-- WineTaste
+- TableWine
 - wine
-Object Properties:
-- hasColor
-- hasFlavor
-- hasMaker
-- hasVintageYear
-- hasWineDescriptor
-- locatedIn
-- madeFromGrape
-- producesWine
-Data Properties:
-- yearValue
-Answer: (wine, hasColor, WineColor)
-(wine, hasWineDescriptor, WineDescriptor)
-(wine, madeFromGrape, WineGrape)
+Reasoning: The requested ontology structure is recovered by identifying the relevant subjects, predicates, and objects from the listed terms.
+Final answer: (LateHarvest, subClassOf, wine)
+(Sauternes, subClassOf, Bordeaux)
+(Sauternes, subClassOf, LateHarvest)
 
-Question: Here is a list of classes and properties in the ontology of Software. Please provide all relationships properties in triple format.
-Classes:
-- FlowRepository Open Access Terms of Use
-- GNU GPL
-- GNU GPL Compatible License Type
-- GNU LGPL
-- GNU Project Free License Type
-- LPPL
-- License without restrictions on derivatives
-- MIACA Full Copyright
-- MPL
-- NLM Open License with Attribution
-- OPL v1.0
-- Open source software license
-- SBGN Open License with Attribution
-- Terms of Use for EMBL-EBI Services
-- licence
-Object Properties:
-- achieves_planned_objective
-- acts upstream of or within, negative effect
-- acts upstream of, negative effect
-- acts upstream of, positive effect
-- capable of positively regulating
-- causal agent in process
-- directly regulates
-- enables
-- enables subfunction
-- follows
-- has part
-- has participant
-- has role
-- has specified data output
-- has version
-- immediately precedes
-- implements
-- indirectly causally upstream of
-- input of
-- involved in negative regulation of
-- involved in positive regulation of
-- involved in regulation of
-- is about
-- is compatible license of
-- is executed in
-- is implemented by
-- process has causal agent
-- quality of
-- regulated by
-- regulates characteristic
-- role of
-- temporally related to
-- uses platform
-Data Properties:
-- has documentation
-- has download location
-- has release date
-- has support URL
-- has website homepage
-Answer: (licence, is compatible license of, licence)
+Question: In the public contracts ontology, given the following set of classes, construct the class hierarchy. In the final answer, output triples in the form (subject, predicate, object).
 
-Question: Here is a list of classes and properties in the ontology of Legal. Please provide all relationships properties in triple format.
 Classes:
-- Agent
-- Belief
-- Communicated_Attitude
-- Company
-- Intention
-- Legal Person (Private Law)
-- Legal_Person
-- Mental_Object
-- Natural_Object
-- Natural_Person
-- Organisation
-- Person
-- Physical_Entity
-- Physical_Object
-- Public_Body
-Object Properties:
-- addressee
-- asserts
-- attitude
-- believed_by
-- believes
-- declares
-- evaluated_by
-- evaluatively_comparable
-- held_by
-- holds
-- intended_by
-- intends
-- observer
-- observes
-- promised_by
-- promises
-- stated_by
-- utterer
-- utters
-Data Properties:
-Answer: (Agent, believes, Belief)
-(Agent, holds, Mental_Object)
-(Agent, intends, Intention)
-(Agent, observes, Belief)
-(Agent, utters, Communicated_Attitude)
-(Belief, believed_by, Agent)
-(Belief, observer, Agent)
-(Communicated_Attitude, addressee, Agent)
-(Communicated_Attitude, utterer, Agent)
-(Intention, intended_by, Agent)
-(Mental_Object, held_by, Agent)
+- Combination of contract award criteria
+- Contract award weighted criterion
+- Event
+- Framework agreement
+- Nabídka
+- Offering
+- Otevírání nabídek
+- Public contract
+Reasoning: The requested ontology structure is recovered by identifying the relevant subjects, predicates, and objects from the listed terms.
+Final answer: (Nabídka, subClassOf, Offering)
+(Otevírání nabídek, subClassOf, Event)
+
+Question: In the BPMN ontology, given the following set of classes, construct the class hierarchy. In the final answer, output triples in the form (subject, predicate, object).
+
+Classes:
+- Connecting object
+- Embedded Sub-process
+- Entity
+- Expression
+- Graphical element
+- Message
+- Participant
+- Property
+- Role
+- Swimlane
+- TimeDate Expression: The TimeDateExpression supporting
+- Web Service
+Reasoning: The requested ontology structure is recovered by identifying the relevant subjects, predicates, and objects from the listed terms.
+Final answer: (TimeDate Expression, subClassOf, Expression)
 
 |||
 Question: {}
-Answer:
+Reasoning:

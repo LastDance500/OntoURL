@@ -1,79 +1,18 @@
-Question: Here is a list of classes in the ontology of Legal. Please provide all relationships between classes in triple format.
-Classes:
-- Assumption
-- Cause
-- Epistemic_Role
-- Evidence
-- Exception
-- Expectation
-- Fact
-- Observation
-- Reason
-- Role
-Answer: (Assumption, subClassOf, Epistemic_Role)
-(Cause, subClassOf, Epistemic_Role)
-(Epistemic_Role, subClassOf, Role)
-(Evidence, subClassOf, Epistemic_Role)
-(Exception, subClassOf, Epistemic_Role)
-(Expectation, subClassOf, Epistemic_Role)
-(Fact, subClassOf, Epistemic_Role)
-(Observation, subClassOf, Epistemic_Role)
-(Reason, subClassOf, Epistemic_Role)
+Reason step by step about the target class and its ontology meaning. If the question itself says to answer only, apply that restriction only to the `Final answer` section. Then put the generated definition after `Final answer:`.
+Here are some examples.
 
-Question: Here is a list of classes in the ontology of African Wildlife. Please provide all relationships between classes in triple format.
-Classes:
-- AnimalCollective
-- Bask
-- Den
-- Flight
-- Herd
-- Nest
-- Scourge
-- Swarm
-- Troop
-- Zeal
-Answer: (Bask, subClassOf, AnimalCollective)
-(Den, subClassOf, AnimalCollective)
-(Flight, subClassOf, AnimalCollective)
-(Herd, subClassOf, AnimalCollective)
-(Nest, subClassOf, AnimalCollective)
-(Scourge, subClassOf, AnimalCollective)
-(Swarm, subClassOf, AnimalCollective)
-(Troop, subClassOf, AnimalCollective)
-(Zeal, subClassOf, AnimalCollective)
+Question: In the comic book ontology, please provide the definition of the concept 'Role'.
+Reasoning: The definition should describe the target class in ontology-style language and match the reference meaning.
+Final answer: A creative role in the production of a comic work.
 
-Question: Here is a list of classes in the ontology of Video Game. Please provide all relationships between classes in triple format.
-Classes:
-- Achievement
-- Collection
-- Completion
-- Curiosity
-- Fandom
-- Loyalty
-- Luck
-- Minigame
-- Multiplayer
-- Paragon
-- Tutorial
-- Veteran
-- Virtuosity
-- hard mode
-- special play style
-Answer: (Collection, subClassOf, Achievement)
-(Completion, subClassOf, Achievement)
-(Curiosity, subClassOf, Achievement)
-(Fandom, subClassOf, Achievement)
-(Loyalty, subClassOf, Achievement)
-(Luck, subClassOf, Achievement)
-(Minigame, subClassOf, Achievement)
-(Multiplayer, subClassOf, Achievement)
-(Paragon, subClassOf, Achievement)
-(Tutorial, subClassOf, Achievement)
-(Veteran, subClassOf, Achievement)
-(Virtuosity, subClassOf, Achievement)
-(hard mode, subClassOf, Achievement)
-(special play style, subClassOf, Achievement)
+Question: In the SWEET ontology, please provide the definition of the concept 'gorge wind'.
+Reasoning: The definition should describe the target class in ontology-style language and match the reference meaning.
+Final answer: A gap wind or canyon wind through a gorge.
+
+Question: In the People ontology, please provide the definition of the concept 'bicycle'.
+Reasoning: The definition should describe the target class in ontology-style language and match the reference meaning.
+Final answer: A human propelled vehicle, with two wheels
 
 |||
 Question: {}
-Answer:
+Reasoning:
