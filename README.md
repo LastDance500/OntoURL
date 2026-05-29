@@ -14,7 +14,7 @@ Dataset: https://huggingface.co/datasets/XiaoZhang98/OntoURL
 ## Version 1.1
 
 OntoURL v1.1 contains 36,159 benchmark instances generated from 43 formal
-ontologies across 8 domains. The release covers 15 tasks:
+ontology resources across 8 domains. The release covers 15 tasks:
 
 - Understanding: explicit ontology content such as class definitions, class
   relations, property semantics, and instances.
@@ -26,6 +26,10 @@ ontologies across 8 domains. The release covers 15 tasks:
 
 The v1.1 release adds L1 Ontology Term Extraction from Text and refreshes the
 task/domain distribution to match the revised paper.
+
+The released `ontology` column uses 38 normalized ontology labels across the 15
+task splits because several Science resources are grouped under broader labels,
+while the source-resource count remains 43.
 
 ## Dataset
 
@@ -183,4 +187,3 @@ BERTScore F1, and L3-L5 are Triple-F1.
 Code is released under the MIT License. Generated benchmark data are released
 under CC BY 4.0 where permitted by source ontology licenses; ontology-specific
 license metadata are provided in the dataset card.
-
